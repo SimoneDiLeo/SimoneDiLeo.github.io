@@ -8,12 +8,10 @@ redirect_from:
 ---
 
 
-{% include base_path %}
-
-[Download my CV here](files/CV.pdf)
+[Download my CV here]([files/CV.pdf](https://simonedileo.github.io//files/CV.pdf))
 
 <!--
-
+{% include base_path %}
 
 Education
 ======
