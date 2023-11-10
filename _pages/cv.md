@@ -7,7 +7,13 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
+
+[Download my CV here] (https://github.com/SimoneDiLeo/SimoneDiLeo.github.io/files/CV.pdf)
+
+<!--
+
 
 Education
 ======
