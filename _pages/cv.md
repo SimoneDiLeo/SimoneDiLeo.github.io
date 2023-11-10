@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Download my CV here]([files/CV.pdf](https://simonedileo.github.io//files/CV.pdf))
+[Download my CV here](https://simonedileo.github.io//files/CV.pdf)
 
 <!--
 {% include base_path %}
