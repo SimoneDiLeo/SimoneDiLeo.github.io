@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here] (https://github.com/SimoneDiLeo/SimoneDiLeo.github.io/files/CV.pdf)
+[Download my CV here](https://github.com/SimoneDiLeo/SimoneDiLeo.github.io/files/CV.pdf)
 
 <!--
 
@@ -62,4 +62,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
+
