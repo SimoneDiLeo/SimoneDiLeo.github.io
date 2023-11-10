@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](files/CV.pdf)
+[Download my CV here]([files/CV.pdf](https://github.com/SimoneDiLeo/SimoneDiLeo.github.io/blob/912576e654ee2b9591a6d9da8c492bbf5c9b97b0/files/CV.pdf))
 
 <!--
 
