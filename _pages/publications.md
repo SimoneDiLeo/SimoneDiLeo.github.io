@@ -21,6 +21,10 @@ Full text (open access) available at <a href="https://doi.org/10.3390/su14127320
 _________________
 
 ## Higher education studies (Universities)
+_________________
+
+Avenali, A., Daraio, C., Di Leo, S., & Wolszczak-Derlacz, J. (2024). Heterogeneity of national accounting systems, world-class universities and financial resources: What are the links?.<i> Journal of Informetrics</i>, 18(2), 101502.
+Full text (open access) available at <a href="https://doi.org/10.1016/j.joi.2024.101502"> JOI </a>
 
 _________________
 Bruni, R., Daraio, C., **Di Leo, S.**, Ghamiloo, O., & Bianchi, G. (2023). An integrated dataset providing a landscape of the Italian Universities. <i>Data in Brief</i>, 48, 109163.
@@ -67,12 +71,17 @@ Dataset available at <a href="https://doi.org/10.17632/pycv47nk3p"> Mendeley Dat
 
 _________________
 
-## Working papers
 _________________
-Avenali A., Daraio C., **Di Leo S.**, Wolszczak-Derlacz J. (2023). “Heterogeneity of national accounting systems, world-class universities and financial resources: what are the links?”. <i> DIAG Technical Report N.05/2023 </i>
+## Phd Thesis
+_________________
 
-Available at <a href="http://users.diag.uniroma1.it/~biblioteca/it/node/6131"> DTR5/23 </a>
+Di Leo, S. (2024). Performance evaluation of public services with nonparametric frontiers.
 
+Full text (Under emargo) available at <a href="https://iris.uniroma1.it/handle/11573/1700558"> IRIS </a>
+
+_________________
+
+## Working papers
 _________________
 
 Daraio, C., **Di Leo, S.**, & Simar, L. (2023). Efficiency of Italian Municipalities and Waste Regulatory Target (No. 2023018). Université catholique de Louvain, Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA).
