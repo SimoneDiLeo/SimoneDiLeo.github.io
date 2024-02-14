@@ -14,6 +14,12 @@ _________________
 ## Electricity market studies
 
 _________________
+
+**Di Leo, S.**, Chicca, M., Daraio, C., Guerrini, A., & Scarcella, S. (2024).  A robust benchmarking of direct margin in Italy's energy retail markets. <i> Utilities Policy</i>,  86, 101701. 
+
+Available at <a href="https://doi.org/10.1016/j.jup.2023.101701"> UP </a>
+
+_________________
 **Di Leo, S.**, Chicca, M., Daraio, C., Guerrini, A., & Scarcella, S. (2022). A Framework for the Analysis of the Sustainability of the Energy Retail Market.<i> Sustainability</i>, 14(12), 7320.
 
 Full text (open access) available at <a href="https://doi.org/10.3390/su14127320"> Sustainability </a>
@@ -90,11 +96,6 @@ Available at <a href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A274620
 
 _________________
 
-**Di Leo, S.**, Chicca, M., Daraio, C., Guerrini, A., & Scarcella, S. (2023).  “A robust benchmarking on direct margin of the Italian energy retail market”. <i> DIAG Technical Report N.03/2023</i> 
-
-Available at <a href="http://users.diag.uniroma1.it/~biblioteca/it/node/6125"> DTR3/23 </a>
-
-_________________
 
 ## Possible new projects
 _________________
