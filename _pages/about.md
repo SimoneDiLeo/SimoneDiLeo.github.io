@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Simone Di Leo - Bio"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
