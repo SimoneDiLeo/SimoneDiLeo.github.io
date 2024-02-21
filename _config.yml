@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uXEtOBsAAAAJ&hl=it"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Simone-Di-Leo"
+  researchgate     : "https://www.researchgate.net/profile/Simone-Di-Leo"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/simone-di-leo/"
   orcid            : "https://orcid.org/0000-0001-9532-8399"
   pinterest        :
   soundcloud       :
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _conferences
   - scope:
       path: ""
-      type: talks
+      type: conferences
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
