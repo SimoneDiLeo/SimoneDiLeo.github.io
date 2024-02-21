@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 1qqbF_0XpLp5sdlcI5f1Jz_LR2lyozEP7cRqVl1t0vM
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simone Di Leo Phd"
+  name             : "Simone Di Leo, Phd"
   avatar           : "profile.png"
   bio              : "Research Fellow at Sapienza University of Rome"
   location         : "Rome"

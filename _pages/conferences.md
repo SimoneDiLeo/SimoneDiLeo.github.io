@@ -51,7 +51,3 @@ Knowledge Asset Dynamics, 1-3 September 2021, Rome (pp. 27-45).
 ## 2020
 _________________
 Daraio, C., Iazzolino, G., Laise, D., Coniglio, I. M., **Di Leo, S.** (2020). “Meta-Choices in Ranking Knowledge-Based Organizations”. In IFKAD 2020 International Forum on Knowledge Asset Dynamics, 9-11 September 2020, Matera (Online) (pp. 1583-1597).
-
-# {% for post in site.talks reversed %}
-#  {% include archive-single-talk.html %}
-# {% endfor %}
