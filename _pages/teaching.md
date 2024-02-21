@@ -18,7 +18,7 @@ _________________
 ## 2023-2024
 _________________
 
-## Productivity and Efficiency Analysis (PEA) Course
+### Productivity and Efficiency Analysis (PEA) Course
 _________________
 
 Systematic review and bibliometric analysis, November 2022, Sapienza University of Rome
@@ -32,7 +32,7 @@ _________________
 ## 2022-2023
 _________________
 
-## Quantitative Model for economic analysis (QME) Course
+### Quantitative Model for economic analysis (QME) Course
 _________________
 
 Feedback on systematic review and data sources for the final project (co-teaching session with prof. Thyago Nepomuceno), May 2023, Sapienza University of Rome
@@ -40,13 +40,13 @@ Feedback on systematic review and data sources for the final project (co-teachin
 Systematic reviews as a metaknoledge tool: caveats and a review of available options (co-teaching seminair with prof. Thyago Nepomuceno), April 2023, Sapienza University of Rome
 
 _________________
-## Economia ed Organizzazione Aziendale (EOA) Course
+### Economia ed Organizzazione Aziendale (EOA) Course
 _________________
 
 Introduzione ai settori regolati e data sources disponibil, April 2023, Sapienza University of Rome
 
 _________________
-## PEA Course
+### PEA Course
 _________________
 
 Systematic review and bibliometric analysis, November 2022, Sapienza University of Rome
@@ -60,7 +60,7 @@ _________________
 ## 2021-2022
 _________________
 
-## QME Course
+### QME Course
 _________________
 
 Discover Systematic Review and bibliometrics tools, April 2022, Sapienza University of Rome
@@ -68,13 +68,13 @@ Discover Systematic Review and bibliometrics tools, April 2022, Sapienza Univers
 Knowledge Base Ontologies using Protege and Eddy, April 2022, Sapienza University of Rome
 
 _________________
-## EOA Course
+### EOA Course
 _________________
 
 Introduzione ai mercati regolamentati e liberalizzati: i mercati ambientali ed energetici, March 2022, Sapienza University of Rome
 
 _________________
-## PEA Course
+### PEA Course
 _________________
 
 Discovering Systematic Review, November 2021, Sapienza University of Rome
@@ -88,7 +88,7 @@ _________________
 ## 2020-2021
 _________________
 
-## QME Course
+### QME Course
 _________________
 
 PRISMA Model: Systematic Literature Review in Action, April 2021, Sapienza University of Rome
@@ -96,20 +96,20 @@ PRISMA Model: Systematic Literature Review in Action, April 2021, Sapienza Unive
 Knowledge Base Ontologies Protege and Eddy, April 2021, Sapienza University of Rome
 
 _________________
-## EOA Course
+### EOA Course
 _________________
 
 Introduzione ai settori regolati: il mercato del gas e dell’energia elettrica in Italia, March 2021, Sapienza University of Rome
 
 _________________
-## PEA Course
+### PEA Course
 _________________
 
 Universities Data Sources and Data Integration, October 2020, Sapienza University of Rome
 
 _________________
 
-## Others Teaching Activities
+# Others Teaching Activities
 _________________
 
 Practice Models III: Why Accounting Systems Matter for Data Quality. Using University Rankings as Informational Tools, <i>European summer school for scientometrics (ESSS) 2023</i>,  September 2023, Sapienza University of Rome

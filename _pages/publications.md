@@ -81,7 +81,7 @@ _________________
 ## Phd Thesis
 _________________
 
-Di Leo, S. (2024). Performance evaluation of public services with nonparametric frontiers.
+**Di Leo, S.** (2024), Performance evaluation of public services with nonparametric frontiers.
 
 Full text (Under emargo) available at <a href="https://iris.uniroma1.it/handle/11573/1700558"> IRIS </a>
 
