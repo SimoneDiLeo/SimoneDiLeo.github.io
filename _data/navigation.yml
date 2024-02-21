@@ -8,6 +8,8 @@ main:
 
   - title: "Conferences"
     url: /conferences/    
+  - title: "FAQ"
+    url: /faq/   
     
 #  - title: "Portfolio"
 #    url: /portfolio/
