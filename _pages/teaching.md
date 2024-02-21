@@ -5,14 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University Courses
+# University Courses
 _________________
 
 No active courses
 
 _________________
 
-## Teaching Seminars
+# Teaching Seminars
 _________________
 
 ## 2023-2024
