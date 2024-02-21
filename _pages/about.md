@@ -17,11 +17,11 @@ let's just say I do a little bit of everything in the data environment.
 ## Affiliation
 _________________
 
-<a href=https://www.diag.uniroma1.it/users/simone_di-leo> ![Sapienza](https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png) </a>
+![Sapienza](https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png)
 
-<a href=https://www.risis2.eu> ![RISIS2](https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0) </a>
+![RISIS2](https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0)
 
-<a href=https://www.eter-project.com/#/home>![ETER](https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg)</a>
+![ETER](https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg)
 
 ## Former Affiliation
 _________________
