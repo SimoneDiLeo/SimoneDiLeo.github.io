@@ -19,7 +19,7 @@ _________________
 
 <i>Professor, we found a lot of article! Are we doing something wrong?</i>
 
-**Most of the time, you are using keyword that are too general. Try to use the framework presented in the seminair or try to discuss with your collegues other keyword to add to the search strategy**
+**Most of the time, you are using keyword that are too general. Try to use the framework presented in the seminair or try to discuss with your collegues other keywords to add to the search strategy**
 
 <i>Professor, we don't like the theme that we decided for the project, can we change it?</i>
 
@@ -48,10 +48,3 @@ _________________
 <i>Professor, what kind of method we need to use for our project?</i>
 
 **I don't know. Ask to the professor of the course!**
-<!--{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
