@@ -97,7 +97,13 @@ Available at <a href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A274620
 _________________
 
 
-## Possible new projects
+## Contribution in University Course book
+_________________
+
+Realization of **Chapter 23** and **Chapter 24** and support for the correction of the other chapters for the book "Daraio C, Lopresto L. (2023). I nobel per l'economia (1969-2022)".
+_________________
+
+## Possible new Research projects
 _________________
 In this section I enter which possible new ideas and projects I would like to develop.
 If you would ever like to collaborate on these topics/projects please write to me!

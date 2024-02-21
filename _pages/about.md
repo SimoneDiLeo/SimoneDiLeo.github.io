@@ -12,3 +12,33 @@ I have a Phd in Management and Industrial engineering with a strong focus on dat
 I work also in ETL, Data Analysis, Text Mining, Data visualization and infographics, etc...
 I don't think there's a position for the jobs I've done in the past...
 let's just say I do a little bit of everything in the data environment.
+
+
+## Affiliation
+_________________
+**Sapienza University Of Rome**
+![Sapienza](https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png) 
+<a href=https://www.diag.uniroma1.it/users/simone_di-leo> University Profile Webpage</a>
+_________________
+**RISIS 2**
+![RISIS2](https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0) 
+<a href=https://www.risis2.eu> RISIS 2 Website </a>
+_________________
+**ETER**
+![ETER](https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg) 
+<a href=https://www.eter-project.com/#/home> ETER Website  </a>
+_________________
+
+## Former Affiliation
+_________________
+
+**Université Catholique de Louvain**
+_________________
+![UCL](https://uclouvain.be/sites/all/themes/ucltheme/logo.png?newdesign2018) 
+
+## Collaboration
+_________________
+
+**ARERA**
+_________________
+![ARERA](https://www.arera.it/typo3conf/ext/areratheme/Resources/Public/Images/Template/arera-logo.svg) 
