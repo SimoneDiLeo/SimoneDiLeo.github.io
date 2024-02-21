@@ -17,18 +17,18 @@ let's just say I do a little bit of everything in the data environment.
 ## Affiliation
 _________________
 
-![Sapienza](https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png)
+<img src="https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png" width="200">
 
-![RISIS2](https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0)
+<img src="https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0" width="200">
 
-![ETER](https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg)
+<img src="https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg" width="200">
 
 ## Former Affiliation
 _________________
 
-![UCL](https://uclouvain.be/sites/all/themes/ucltheme/logo.png?newdesign2018) 
+<img src="https://uclouvain.be/sites/all/themes/ucltheme/logo.png?newdesign2018" width="100">
 
-## Collaboration
+## Other Collaboration
 _________________
 
-![ARERA](https://www.arera.it/typo3conf/ext/areratheme/Resources/Public/Images/Template/arera-logo.svg) 
+<img src="https://www.arera.it/typo3conf/ext/areratheme/Resources/Public/Images/Template/arera-logo.svg" width="100">
