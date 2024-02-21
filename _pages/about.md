@@ -26,9 +26,9 @@ _________________
 ## Former Affiliation
 _________________
 
-<img src="https://uclouvain.be/sites/all/themes/ucltheme/logo.png?newdesign2018" width="100">
+<img src="https://uclouvain.be/sites/all/themes/ucltheme/logo.png?newdesign2018" width="200">
 
 ## Other Collaboration
 _________________
 
-<img src="https://www.arera.it/typo3conf/ext/areratheme/Resources/Public/Images/Template/arera-logo.svg" width="100">
+<img src="https://www.arera.it/typo3conf/ext/areratheme/Resources/Public/Images/Template/arera-logo.svg" width="200">
