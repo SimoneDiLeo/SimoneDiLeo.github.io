@@ -15,36 +15,36 @@ _________________
 
 <i>Is it possible to carry out only one bibliometric analysis for the project?</i>
 
-**I don't think it that one single analysis is enough, but ask to the professor of the course for more details. I suggest to you to do at least 2 analysis**
+**I don't think one analysis is enough, but ask the course professor for more details. I suggest you do at least 2 analyses**
 
 <i>We found a lot of articles! Are we doing something wrong?</i>
 
-**Most of the time, you are using keyword that are too general. Try to use the framework presented in the seminair or try to discuss with your collegues other keywords to add to the search strategy**
+**Most of the time you are using keywords that are too generic. Try to use the framework presented in Seminair or discuss with your colleagues other keywords to add to your search strategy.**
 
 <i>We don't like the theme we decided on for the project, can we change it?</i>
 
-**I don't know. Ask to the professor of the course**
+**I don't know. Ask the course professor!e**
 
 <i>Do we only have to do the biblometric analysis?</i>
 
-**NO! You need to do at least the table of content for the first draft of the project. In the final project you need to include also the table of findings**
+**NO! You must make at least the table of contents for the first draft of the project. You must also include the results table in the final draft.**
 
 # Questions about the data sources (and data analysis)
 
 _________________
 
-<i>Professor, we can't find the data for the project, do you have any idea where we can find them?</i>
+<i>We can't find the data for the project, do you have any idea where we can find them?</i>
 
-**Try to search on the repository that I presented during the seminair. Use also google dataset, mendley data or any website you want. If you don't find any structured data, maybe you need to do a manual collection of the data**
+**Try searching the repository I presented during the seminar. Also use google dataset, mendley data or any website you wish. If you do not find structured data, you may have to do a manual data collection.**
 
 <i>Can we use more than one data source?</i>
 
-**Sure! Data integration is very important to do research. Please just be carefull during the integration process**
+**Of course! Data integration is very important for research. Please pay attention during the integration process**
 
 <i>We cannot find the data for the project, can we change the theme?</i>
 
-**I don't know. Ask to the professor of the course! I strongly suggest you to don't change the theme if you have done the systematic review part. Be careful, in case you change the topic you will also have to redo the review!**
+**I don't know. Ask the course professor! I strongly advise you not to change the topic if you have done the systematic revision part. Beware, if you change the essay you will have to redo the revision as well!**
 
 <i>What kind of method should we use for our project?</i>
 
-**I don't know. Ask to the professor of the course!**
+**I don't know. Ask the course professor!**
