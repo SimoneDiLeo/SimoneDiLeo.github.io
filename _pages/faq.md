@@ -5,27 +5,27 @@ permalink: /faq/
 author_profile: true
 ---
 
-# Questions about the systematic reviews
+# Questions about the systematic review
 
 _________________
 
-<i>Professor, where i can download Bibliometrix?</i>
+<i>Where can I download Bibliometrix?</i>
 
 **Bibliometrix is a R shiny package. Use the command install.packages("bibliometrix") in R.**
 
-<i>Professor, it is possible to do only a single bibliometric analysis for the project?</i>
+<i>Is it possible to carry out only one bibliometric analysis for the project?</i>
 
 **I don't think it that one single analysis is enough, but ask to the professor of the course for more details. I suggest to you to do at least 2 analysis**
 
-<i>Professor, we found a lot of article! Are we doing something wrong?</i>
+<i>We found a lot of articles! Are we doing something wrong?</i>
 
 **Most of the time, you are using keyword that are too general. Try to use the framework presented in the seminair or try to discuss with your collegues other keywords to add to the search strategy**
 
-<i>Professor, we don't like the theme that we decided for the project, can we change it?</i>
+<i>We don't like the theme we decided on for the project, can we change it?</i>
 
 **I don't know. Ask to the professor of the course**
 
-<i>Professor, we need to do only the biblometric analysis?</i>
+<i>Do we only have to do the biblometric analysis?</i>
 
 **NO! You need to do at least the table of content for the first draft of the project. In the final project you need to include also the table of findings**
 
@@ -37,14 +37,14 @@ _________________
 
 **Try to search on the repository that I presented during the seminair. Use also google dataset, mendley data or any website you want. If you don't find any structured data, maybe you need to do a manual collection of the data**
 
-<i>Professor, can we use more then one data source?</i>
+<i>Can we use more than one data source?</i>
 
 **Sure! Data integration is very important to do research. Please just be carefull during the integration process**
 
-<i>Professor, we can't find the data for the project, can we change the theme?</i>
+<i>We cannot find the data for the project, can we change the theme?</i>
 
 **I don't know. Ask to the professor of the course! I strongly suggest you to don't change the theme if you have done the systematic review part. Be careful, in case you change the topic you will also have to redo the review!**
 
-<i>Professor, what kind of method we need to use for our project?</i>
+<i>What kind of method should we use for our project?</i>
 
 **I don't know. Ask to the professor of the course!**

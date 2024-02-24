@@ -16,7 +16,7 @@ I don't think there's a position for the jobs I've done in the past... let's jus
 ## Affiliation
 _________________
 
-<img src="https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png" width="200"> <img src="https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0" width="200"> <img src="https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg" width="200">
+<img src="https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png" width="200">    <img src="https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0" width="200">    <img src="https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg" width="200">
 
 ## Former Affiliation
 _________________
