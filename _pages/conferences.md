@@ -5,8 +5,18 @@ permalink: /conferences/
 author_profile: true
 ---
 
+# Conference organization
+_________________
+
+## 2022
+_________________
+
+Chair of the session "MI-6 REGULATION I" for the XVII EWEPA | Porto, June 27-29 2022
+
 # Conference Presentation
 _________________
+
+
 
 ## 2023
 _________________
