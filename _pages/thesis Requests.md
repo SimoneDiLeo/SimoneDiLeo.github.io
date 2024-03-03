@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "thesis Requests"
+permalink: /thesis Requests/
 author_profile: true
 ---
 
@@ -10,6 +10,7 @@ author_profile: true
 _________________
 
 Not available now.
+
 _________________
 
 # Master Degree Thesis
