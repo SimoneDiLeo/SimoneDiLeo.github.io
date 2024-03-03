@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=uXEtOBsAAAAJ&hl=it">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=uXEtOBsAAAAJ&hl=it">my Google Scholar profile</a>.</u>
 
 _________________
 
@@ -30,6 +30,7 @@ _________________
 
 Avenali, A., Daraio, C., **Di Leo, S.**, & Wolszczak-Derlacz, J. (2024). Heterogeneity of national accounting systems, world-class universities and financial resources: What are the links?.<i> Journal of Informetrics</i>, 18(2), 101502.
 Full text (open access) available at <a href="https://doi.org/10.1016/j.joi.2024.101502"> JOI </a>
+Machine Learning Tool presented in the article available at <a href="https://simonedileo.shinyapps.io/ARWU_League_Estimator/"> ARWU Estimator </a>
 
 _________________
 Bruni, R., Daraio, C., **Di Leo, S.**, Ghamiloo, O., & Bianchi, G. (2023). An integrated dataset providing a landscape of the Italian Universities. <i>Data in Brief</i>, 48, 109163.
@@ -76,6 +77,10 @@ Dataset available at <a href="https://doi.org/10.17632/pycv47nk3p"> Mendeley Dat
 
 _________________
 
+Bruni, R., Daraio, C., **Di Leo, S.** (2024), “A detection tool for longitudinal data specific errors applied to the case of European universities”, <i>Mendeley Data</i>.
+
+Dataset available at <a href="https://doi.org/10.17632/syyc7t4z54"> Mendeley Data </a>
+
 _________________
 ## Phd Thesis
 _________________
@@ -95,12 +100,16 @@ Available at <a href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A274620
 
 _________________
 
+Bruni, R., Daraio, C., & **Di Leo, S.** (2024). Flexible Techniques to Detect Typical Hidden Errors in Large Longitudinal Datasets. <i>Preprints</i>. 
+
+Available at <a href="https://doi.org/10.20944/preprints202403.0012.v1"> PrePrints </a>
+
+_________________
 
 ## Contribution in University Course book
 _________________
 
-Realization of **Chapter 23** and **Chapter 24** and support for the correction of the other chapters for the book "Daraio C, Lopresto L. (2023). I nobel per l'economia (1969-2022)".
-
+Realization of **Chapter 23** and **Chapter 24** and support for the correction of the other chapters for the book **Daraio C, Lopresto L. (2023)**, <i>I nobel per l'economia (1969-2022)</i>.
 
 _________________
 
@@ -110,12 +119,9 @@ _________________
 In this section I enter which possible new ideas and projects I would like to develop.
 If you would ever like to collaborate on these topics/projects please write to me!
 
+- Frontier analysis of the Electricity and Natural gas retail market in Italy
 - Frontier analysis in the Waste sector
 - Frontier analysis in the Water sector
-- Frontier analysis of the Electricity distribution in Italy
-- Frontier analysis in Sport *For example football
-- Frontier analysis in E-Sport
-- Analysis of the Videogame market *Classic videogame or Game as Service?
 
 _________________
 

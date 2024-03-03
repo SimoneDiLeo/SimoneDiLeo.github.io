@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**For student receiving, send an email in advance to reserve a meeting (online)!**
+
 # University Courses
 _________________
 
@@ -43,7 +45,7 @@ _________________
 ### Economia ed Organizzazione Aziendale (EOA) Course
 _________________
 
-Introduzione ai settori regolati e data sources disponibil, April 2023, Sapienza University of Rome
+Introduzione ai settori regolati e data sources disponibili, April 2023, Sapienza University of Rome
 
 _________________
 ### PEA Course
@@ -114,8 +116,8 @@ _________________
 
 Practice Models III: Why Accounting Systems Matter for Data Quality. Using University Rankings as Informational Tools, <i>European summer school for scientometrics (ESSS) 2023</i>,  September 2023, Sapienza University of Rome
 
-Developing Quantitative Models for the Evaluation of Performance: Challenges and tools available, <i>Developing Quantitative Models for the Evaluation of Performance: Challenges and tools available</i> - RISIS Methods in Action , November 2023, Sapienza University of Rome
+Developing Quantitative Models for the Evaluation of Performance: Challenges and tools available, <i>RISIS2 Methods in Action </i>, November 2023, Sapienza University of Rome
 
-Advanced Benchmarking Models and Techniques, <i>Methodological course on Advanced Benchmarking Models and Techniques <i> - RISIS 2 Project, March 2021, Sapienza University of Rome
+Methodological course on Advanced Benchmarking Models and Techniques, <i>RISIS2 Courses </i>, March 2021, Sapienza University of Rome
 
-Accounting Systems and Data Quality, <i>Data Quality for Research and Higher Education Studies Course</i> - RISIS 2 project, September 2020, Sapienza University of Rome
+Data Quality for Research and Higher Education Studies Course: Accounting Systems and Data Quality, <i>RISIS2 Courses </i>, September 2020, Sapienza University of Rome
