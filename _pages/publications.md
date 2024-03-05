@@ -29,7 +29,9 @@ _________________
 _________________
 
 Avenali, A., Daraio, C., **Di Leo, S.**, & Wolszczak-Derlacz, J. (2024). Heterogeneity of national accounting systems, world-class universities and financial resources: What are the links?.<i> Journal of Informetrics</i>, 18(2), 101502.
+
 Full text (open access) available at <a href="https://doi.org/10.1016/j.joi.2024.101502"> JOI </a>
+
 Machine Learning Tool presented in the article available at <a href="https://simonedileo.shinyapps.io/ARWU_League_Estimator/"> ARWU Estimator </a>
 
 _________________
