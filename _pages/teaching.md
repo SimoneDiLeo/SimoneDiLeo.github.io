@@ -23,11 +23,11 @@ _________________
 ### Productivity and Efficiency Analysis (PEA) Course
 _________________
 
-Systematic review and bibliometric analysis, November 2022, Sapienza University of Rome
+Systematic review and bibliometric analysis, November 2023, Sapienza University of Rome
 
-Data Analysis with R, November 2022, Sapienza University of Rome
+Data Analysis with R, November 2023, Sapienza University of Rome
 
-Available data sources for efficiency analysis of regulated sectors, November 2022, Sapienza University of Rome
+Available data sources for efficiency analysis of regulated sectors, November 2023, Sapienza University of Rome
 
 _________________
 
