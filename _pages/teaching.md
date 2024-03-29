@@ -50,7 +50,7 @@ Feedback on systematic review and data sources for the final project (co-teachin
 Systematic reviews as a metaknoledge tool: caveats and a review of available options (co-teaching seminair with prof. Thyago Nepomuceno), April 2023, Sapienza University of Rome
 
 _________________
-### EOA
+### EOA Course
 _________________
 
 Introduzione ai settori regolati e data sources disponibili, April 2023, Sapienza University of Rome
