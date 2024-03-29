@@ -20,6 +20,14 @@ _________________
 ## 2023-2024
 _________________
 
+### Economia ed Organizzazione Aziendale (EOA) Course
+_________________
+
+From monopolies to regulated market: electricity and natural gas markets in Italy, March 2024, Sapienza University of Rome
+
+_________________
+
+
 ### Productivity and Efficiency Analysis (PEA) Course
 _________________
 
@@ -42,7 +50,7 @@ Feedback on systematic review and data sources for the final project (co-teachin
 Systematic reviews as a metaknoledge tool: caveats and a review of available options (co-teaching seminair with prof. Thyago Nepomuceno), April 2023, Sapienza University of Rome
 
 _________________
-### Economia ed Organizzazione Aziendale (EOA) Course
+### EOA
 _________________
 
 Introduzione ai settori regolati e data sources disponibili, April 2023, Sapienza University of Rome
