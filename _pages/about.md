@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Simone Di Leo - Bio"
+title: "Simone Di Leo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,10 +20,14 @@ _________________
 
 <img src="https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png" width="200">    <img src="https://www.diag.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="200">    
 
-<img src="https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0" width="200">    <img src="https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg" width="200">
+
 
 ## Former Affiliation
 _________________
+
+<img src="https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0" width="200">   
+
+<img src="https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg" width="200">
 
 <img src="https://uclouvain.be/sites/all/themes/ucltheme/logo.png?newdesign2018" width="200">
 

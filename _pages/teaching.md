@@ -20,6 +20,13 @@ _________________
 ## 2023-2024
 _________________
 
+### Quantitative Model for economic analysis (QME) Course
+_________________
+
+Generative AI and SLR, April 2024, Sapienza University of Rome
+
+_________________
+
 ### Economia ed Organizzazione Aziendale (EOA) Course
 _________________
 
@@ -42,7 +49,7 @@ _________________
 ## 2022-2023
 _________________
 
-### Quantitative Model for economic analysis (QME) Course
+### QME Course
 _________________
 
 Feedback on systematic review and data sources for the final project (co-teaching session with prof. Thyago Nepomuceno), May 2023, Sapienza University of Rome
