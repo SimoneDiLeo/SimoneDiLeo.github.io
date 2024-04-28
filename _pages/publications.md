@@ -62,12 +62,13 @@ Full text (open access) available at <a href="https://doi.org/10.1108/MD-01-2021
 
 _________________
 
-## Methodological articles
+## Methodological Articles
 
 _________________
 
 Bruni R., Daraio C., **Di Leo S.**(2024). Flexible Techniques to Detect Typical Hidden Errors in Large Longitudinal Datasets. <i>Symmetry</i> 16(5):529.
 Full text (open access) available at <a href="https://doi.org/10.3390/sym16050529"> Symmetry </a> 
+
 _________________
 
 Avenali, A., Daraio, C., **Di Leo, S.**, Matteucci, G., & Nepomuceno, T. (2023). Systematic reviews as a metaknowledge tool: caveats and a review of available options.<i> International Transactions in Operational Research</i>.
@@ -106,7 +107,9 @@ Available at <a href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A274620
 
 _________________
 
-Daraio, C.,**Di Leo, S.**, & Simar, L. (2024). Conical FDH Estimators of Directional Distances and Luenberger Productivity Indices for General Technologies (No. 2024009). <i>Université catholique de Louvain, Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA).<i>
+Daraio, C., **Di Leo, S.**, & Simar, L. (2024). Conical FDH Estimators of Directional Distances and Luenberger Productivity Indices for General Technologies (No. 2024009). <i>Université catholique de Louvain, Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA).<i>
+
+Available at <a href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A285809/datastream/PDF_01/view"> UCL </a>
 
 _________________
 
