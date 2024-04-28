@@ -67,6 +67,7 @@ _________________
 _________________
 
 Bruni R., Daraio C., **Di Leo S.**(2024). Flexible Techniques to Detect Typical Hidden Errors in Large Longitudinal Datasets. <i>Symmetry</i> 16(5):529.
+
 Full text (open access) available at <a href="https://doi.org/10.3390/sym16050529"> Symmetry </a> 
 
 _________________
