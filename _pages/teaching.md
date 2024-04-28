@@ -23,6 +23,8 @@ _________________
 ### Quantitative Model for economic analysis (QME) Course
 _________________
 
+Knowledge Base Ontologies using Protege and Eddy, April 2024, Sapienza University of Rome
+
 Generative AI and SLR, April 2024, Sapienza University of Rome
 
 _________________
