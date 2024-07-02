@@ -16,7 +16,7 @@ _________________
 _________________
 
 
-Daraio, C.,**Di Leo, S.** & Simar, L. Viable eco-efficiency targets for waste collection communities. <i> Sci Rep</i> 14, 15038 (2024). 
+Daraio, C., **Di Leo, S.** & Simar, L. (2024). Viable eco-efficiency targets for waste collection communities. <i> Sci Rep</i> 14, 15038. 
 
 Available at <a href="https://doi.org/10.1038/s41598-024-66077-y "> SCI REP </a>
 
@@ -113,12 +113,6 @@ Full text (Under emargo) available at <a href="https://iris.uniroma1.it/handle/1
 _________________
 
 ## Working papers
-_________________
-
-Daraio, C., **Di Leo, S.**, & Simar, L. (2023). Efficiency of Italian Municipalities and Waste Regulatory Target (No. 2023018). Université catholique de Louvain, Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA).
-
-Available at <a href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A274620/datastream/PDF_01/view"> UCL </a>
-
 _________________
 
 Daraio, C., **Di Leo, S.**, & Simar, L. (2024). Conical FDH Estimators of Directional Distances and Luenberger Productivity Indices for General Technologies (No. 2024009). <i>Université catholique de Louvain, Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA).<i>
