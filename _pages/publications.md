@@ -8,6 +8,19 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=uXEtOBsAAAAJ&hl=it">my Google Scholar profile</a>.</u>
 
+
+_________________
+
+## Waste Management studies
+
+_________________
+
+
+Daraio, C.,**Di Leo, S.** & Simar, L. Viable eco-efficiency targets for waste collection communities. <i> Sci Rep</i> 14, 15038 (2024). 
+
+Available at <a href="https://doi.org/10.1038/s41598-024-66077-y "> SCI REP </a>
+
+
 _________________
 
 ## Electricity market studies

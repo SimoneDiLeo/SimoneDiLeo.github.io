@@ -16,7 +16,12 @@ Chair of the session "MI-6 REGULATION I" for the XVII EWEPA | Porto, June 27-29 
 # Conference Presentation
 _________________
 
+## 2024
+_________________
 
+D'Adamo I., Daraio C., **Di Leo S.**, L. Simar, (2024), An analysis of sustainable waste efficiency at european level, <i>18th European Workshop on Efficiency and Productivity Analysis - EWEPA 2024</i>, 18-21 June 2024, Faro.
+
+_________________
 
 ## 2023
 _________________
