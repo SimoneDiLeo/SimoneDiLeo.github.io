@@ -20,6 +20,14 @@ Daraio, C., **Di Leo, S.** & Simar, L. (2024). Viable eco-efficiency targets for
 
 Available at <a href="https://doi.org/10.1038/s41598-024-66077-y "> SCI REP </a>
 
+D'Adamo I., Daraio, C., **Di Leo, S.**, Gastaldi M. & Rossi E.N. (2024). Driving EU sustainability: Promoting the circular economy through municipal waste efficiency. <i> Sustainable Production and Consumption</i> 50, 462-474. 
+
+Available at <a href="https://doi.org/10.1016/j.spc.2024.08.022"> SUS PROD </a>
+
+Daraio, C., **Di Leo, S.** & Simar, L. (2024).  Impact of a regulatory target and external factors on the waste efficiency of Italian municipalities. <i> Waste Management & Research</i> 0734242X241262698. 
+
+Available at <a href="https://doi.org/10.1177/0734242X241262698"> WM&R </a>
+
 
 _________________
 

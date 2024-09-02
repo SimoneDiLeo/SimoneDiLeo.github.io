@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello, I'm Simone Di Leo. 
 I have a BSc Degree in **Sofware Enginering**, a MSc in **Management Engineering** and a Phd in **Industrial and Management Engineering**. 
-I am currently a  **Resarch Fellow** at **Sapienza University of Rome** with a focus on the strategic analysis of retail energy markets using non-parametric techniques and machine learning.
+I am currently an  **Assistant Professor (Not Tenure Track) - RTD-A ** at **Sapienza University of Rome** with a focus on the strategic analysis of retail energy markets using non-parametric techniques and machine learning.
 My research focuses mainly on data-driven policy analysis and non-parametric frontiers.
 I work also in ETL, Quantitative Data Analysis, Text Mining, **Data visualization** and Applied quantitative analysis on regulated industries/markets.
 
@@ -40,3 +40,4 @@ _________________
 _________________
 
 <img src="https://www.arera.it/typo3conf/ext/areratheme/Resources/Public/Images/Template/arera-logo.svg" width="200">
+<img src="https://esss.info/wp-content/uploads/2020/12/esss-logo.png" width="200">
