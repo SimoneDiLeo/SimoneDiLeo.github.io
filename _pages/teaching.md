@@ -10,8 +10,16 @@ author_profile: true
 # University Courses
 _________________
 
-No active courses
+## 2024-2025
+_________________
 
+MANAGEMENT TOOLS FOR BUSINESS DATA ANALYST - 2024/25
+
+Classroom website:
+https://classroom.google.com/c/NzE0MTEyMjgyNjI2?cjc=6eezwy4
+
+Course Code:
+6eezwy4
 _________________
 
 # Teaching Seminars
