@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Simone Di Leo"
+title: "Simone Di Leo, Phd"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello, I'm Simone Di Leo. 
 I have a BSc Degree in **Sofware Enginering**, a MSc in **Management Engineering** and a Phd in **Industrial and Management Engineering**. 
-I am currently an  **Assistant Professor (Not Tenure Track) - RTD-A ** at **Sapienza University of Rome** with a focus on the strategic analysis of retail energy markets using non-parametric techniques and machine learning.
+I am currently an  **Assistant Professor (Not Tenure Track) - RTD-A** at **Sapienza University of Rome**.
 My research focuses mainly on data-driven policy analysis and non-parametric frontiers.
 I work also in ETL, Quantitative Data Analysis, Text Mining, **Data visualization** and Applied quantitative analysis on regulated industries/markets.
 

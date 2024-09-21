@@ -16,6 +16,11 @@ _________________
 _________________
 
 
+D’Adamo, I., Daraio, C., **Di Leo, S.** et al. (2024). A Flexible and Sustainable Analysis of Waste Efficiency at the European Level. <i> Glob J Flex Syst Manag. </i>  
+
+Available at <a href="https://doi.org/10.1007/s40171-024-00416-w"> GJFSM </a>
+
+
 Daraio, C., **Di Leo, S.** & Simar, L. (2024). Viable eco-efficiency targets for waste collection communities. <i> Sci Rep</i> 14, 15038. 
 
 Available at <a href="https://doi.org/10.1038/s41598-024-66077-y "> SCI REP </a>
@@ -49,6 +54,11 @@ _________________
 ## Higher education studies (Universities)
 _________________
 
+**Di Leo, S.**, Avenali, A., Daraio, C. et al. (2024). Climbing university rankings under resources constraints: a combined approach integrating DEA and directed Louvain community detection. <i> Annals Oper Res </i>  
+
+Available at <a href="https://doi.org/10.1007/s10479-024-06219-7"> ANOR </a>
+
+_________________
 Avenali, A., Daraio, C., **Di Leo, S.**, & Wolszczak-Derlacz, J. (2024). Heterogeneity of national accounting systems, world-class universities and financial resources: What are the links?.<i> Journal of Informetrics</i>, 18(2), 101502.
 
 Full text (open access) available at <a href="https://doi.org/10.1016/j.joi.2024.101502"> JOI </a>
