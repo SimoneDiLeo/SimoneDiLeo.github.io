@@ -16,7 +16,7 @@ _________________
 MANAGEMENT TOOLS FOR BUSINESS DATA ANALYST - 2024/25
 
 Classroom website:
-https://classroom.google.com/c/NzE0MTEyMjgyNjI2?cjc=6eezwy4
+<a href="https://classroom.google.com/c/NzE0MTEyMjgyNjI2?cjc=6eezwy4"> LINK </a>
 
 Course Code:
 6eezwy4
