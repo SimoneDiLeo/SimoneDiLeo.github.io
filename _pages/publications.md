@@ -34,7 +34,7 @@ Available at <a href="https://doi.org/10.1016/j.spc.2024.08.022"> SUS PROD </a>
 
 Listen the AI Generated Audio Podcast on this article! (Powered by NotebookLM)
 <audio controls autoplay muted>
-  <source src="../_includes/_audio/15_DRIVING_EU_SUSTAINABILITY_PROMOTING_THE_CIRCULAR_ECONOMY_THROUGH_MUNICIPAL_WASTE_EFFICIENCY.wav" type="audio/wav">
+  <source src="https://github.com/SimoneDiLeo/SimoneDiLeo.github.io/blob/master/_includes/_audio/15_DRIVING_EU_SUSTAINABILITY_PROMOTING_THE_CIRCULAR_ECONOMY_THROUGH_MUNICIPAL_WASTE_EFFICIENCY.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
