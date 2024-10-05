@@ -34,7 +34,7 @@ Available at <a href="https://doi.org/10.1016/j.spc.2024.08.022"> SUS PROD </a>
 
 Listen the AI Generated Audio Podcast on this article! (Powered by NotebookLM)
 <audio controls>
-  <source src="https://docs.google.com/uc?export=download&id=1h34luzGzHLTJqxj_oKUJ_uksX_A7JFD3" type="audio/wav">
+  <source src="https://drive.google.com//file/d/1h34luzGzHLTJqxj_oKUJ_uksX_A7JFD3/preview" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
