@@ -19,7 +19,15 @@ _________________
 D’Adamo, I., Daraio, C., **Di Leo, S.** et al. (2024). A Flexible and Sustainable Analysis of Waste Efficiency at the European Level. <i> Glob J Flex Syst Manag. </i>  
 
 Available at <a href="https://doi.org/10.1007/s40171-024-00416-w"> GJFSM </a> 
+
+Listen the AI Generated Audio Podcast on this article! (Powered by NotebookLM)
+<audio controls autoplay muted>
+  <source src="../_includes/_audio/15_DRIVING_EU_SUSTAINABILITY_PROMOTING_THE_CIRCULAR_ECONOMY_THROUGH_MUNICIPAL_WASTE_EFFICIENCY.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s40171-024-00416-w"></div>
+
 
 Daraio, C., **Di Leo, S.** & Simar, L. (2024). Viable eco-efficiency targets for waste collection communities. <i> Sci Rep</i> 14, 15038. 
 
