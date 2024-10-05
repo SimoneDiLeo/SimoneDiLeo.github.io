@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=uXEtOBsAAAAJ&hl=it">my Google Scholar profile</a>.</u>
 
@@ -20,6 +20,7 @@ D’Adamo, I., Daraio, C., **Di Leo, S.** et al. (2024). A Flexible and Sustaina
 
 Available at <a href="https://doi.org/10.1007/s40171-024-00416-w"> GJFSM </a>
 
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s40171-024-00416-w"></div>
 
 Daraio, C., **Di Leo, S.** & Simar, L. (2024). Viable eco-efficiency targets for waste collection communities. <i> Sci Rep</i> 14, 15038. 
 
