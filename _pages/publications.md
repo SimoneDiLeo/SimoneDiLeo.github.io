@@ -6,7 +6,7 @@ author_profile: true
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=uXEtOBsAAAAJ&hl=it">my Google Scholar profile</a>.</u>
+You can also find all the articles on <u><a href="https://scholar.google.com/citations?user=uXEtOBsAAAAJ&hl=it">my Google Scholar profile</a>.</u>
 
 
 _________________
@@ -17,25 +17,32 @@ _________________
 
 
 D’Adamo, I., Daraio, C., **Di Leo, S.** et al. (2024). A Flexible and Sustainable Analysis of Waste Efficiency at the European Level. <i> Glob J Flex Syst Manag. </i>  
-
 Available at <a href="https://doi.org/10.1007/s40171-024-00416-w"> GJFSM </a> 
+<details>
+  <summary><b>Abstract</b></summary>
+  <p style="text-align: justify">This paper analyses the waste management efficiency of European Union countries using a flexible nonparametric methodology known as directional data envelopment analysis (DEA). The study evaluates performance at the macro (country) level, considering waste generated as input, landfilled and incinerated waste as bad output and recycled waste as output. The analysis incorporates the heterogeneity and specificities of each country, with respect to social and economic sustainability, establishing specific and realistic targets for each country to achieve efficiency. The research introduces a flexible and innovative method for assessing waste management efficiency and provides new empirical evidence on European waste management, considering economic and social sustainability. The results reveal a significant disparity among European countries in both waste generation and waste recycling. Countries are categorised into five groups according to their level of efficiency, and Central European nations are observed to exhibit generally better performance. A pragmatic approach, based on clear collaboration among countries, could optimise the unique waste management characteristics of individual nations to enhance the overall efficiency of the European waste management system, contributing to a circular economy and sustainable development.</p>
+</details>
 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s40171-024-00416-w"></div>
 
-
+------------------------------------------------------------------
 Daraio, C., **Di Leo, S.** & Simar, L. (2024). Viable eco-efficiency targets for waste collection communities. <i> Sci Rep</i> 14, 15038. 
 
 Available at <a href="https://doi.org/10.1038/s41598-024-66077-y "> SCI REP </a> 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41598-024-66077-y "></div>
+
+------------------------------------------------------------------
 
 D'Adamo I., Daraio, C., **Di Leo, S.**, Gastaldi M. & Rossi E.N. (2024). Driving EU sustainability: Promoting the circular economy through municipal waste efficiency. <i> Sustainable Production and Consumption</i> 50, 462-474. 
 
 Available at <a href="https://doi.org/10.1016/j.spc.2024.08.022"> SUS PROD </a>
 
 Listen the AI Generated Audio Podcast on this article! (Powered by NotebookLM)
-<iframe src="https://drive.google.com/file/d/1h34luzGzHLTJqxj_oKUJ_uksX_A7JFD3/preview" width="300" height="80" style="border: none;"></iframe>
+<iframe src="https://drive.google.com/file/d/1h34luzGzHLTJqxj_oKUJ_uksX_A7JFD3/preview" width="350" height="50" style="border: none;"></iframe>
 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.spc.2024.08.022"></div>
+
+------------------------------------------------------------------
 
 Daraio, C., **Di Leo, S.** & Simar, L. (2024).  Impact of a regulatory target and external factors on the waste efficiency of Italian municipalities. <i> Waste Management & Research</i> 0734242X241262698. 
 
@@ -48,6 +55,7 @@ _________________
 ## Electricity market studies
 
 _________________
+
 
 **Di Leo, S.**, Chicca, M., Daraio, C., Guerrini, A., & Scarcella, S. (2024).  A robust benchmarking of direct margin in Italy's energy retail markets. <i> Utilities Policy</i>,  86, 101701. 
 
