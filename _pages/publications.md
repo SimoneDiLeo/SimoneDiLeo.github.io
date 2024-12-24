@@ -125,7 +125,9 @@ _________________
 _________________
 
 Daraio C., **Di Leo S.**, L. Simar (2025). Flexible Techniques to Detect Typical Hidden Errors in Large Longitudinal Datasets. <i>European Journal of Operational Research</i>
+
 Full text available at <a href="https://doi.org/10.1016/j.ejor.2024.12.025"> EJOR </a> 
+
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.ejor.2024.12.025"></div>
 
 _________________
