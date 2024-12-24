@@ -124,6 +124,12 @@ _________________
 
 _________________
 
+Daraio C., **Di Leo S.**, L. Simar (2025). Flexible Techniques to Detect Typical Hidden Errors in Large Longitudinal Datasets. <i>European Journal of Operational Research</i>
+Full text available at <a href="https://doi.org/10.1016/j.ejor.2024.12.025"> EJOR </a> 
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.ejor.2024.12.025"></div>
+
+_________________
+
 Bruni R., Daraio C., **Di Leo S.**(2024). Flexible Techniques to Detect Typical Hidden Errors in Large Longitudinal Datasets. <i>Symmetry</i> 16(5):529.
 
 Full text (open access) available at <a href="https://doi.org/10.3390/sym16050529"> Symmetry </a> 
@@ -163,10 +169,6 @@ _________________
 
 ## Working papers
 _________________
-
-Daraio, C., **Di Leo, S.**, & Simar, L. (2024). Conical FDH Estimators of Directional Distances and Luenberger Productivity Indices for General Technologies (No. 2024009). <i>Université catholique de Louvain, Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA).<i>
-
-Available at <a href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A285809/datastream/PDF_01/view"> UCL </a>
 
 _________________
 

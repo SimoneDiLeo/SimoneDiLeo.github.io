@@ -23,6 +23,16 @@ Course Code:
 
 _________________
 
+
+ECONOMICS OF TECHNOLOGY AND MANAGEMENT - 2024-25 (3 CFU)
+
+Classroom website:
+<a href=""> NOT AVAILABLE </a>
+
+Course Code:
+NOT AVAILABLE
+
+
 # Teaching Seminars
 _________________
 
