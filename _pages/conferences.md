@@ -19,14 +19,17 @@ _________________
 ## 2024
 _________________
 
-D'Adamo I., Daraio C., **Di Leo S.**, L. Simar, (2024), An analysis of sustainable waste efficiency at european level, <i>18th European Workshop on Efficiency and Productivity Analysis - EWEPA 2024</i>, 18-21 June 2024, Faro.
+Daraio C., **Di Leo S.**, Ferazzoli F., (2024), Evaluating ChatGPT (and other AI Chatbots) for Systematic Reviews: Potential Benefits and Challenges, <i>Associazione italiana di Ingegneria Gestionale</i>, 10-11 October 2024, Palermo.
+
+
+D'Adamo I., Daraio C., **Di Leo S.**, Simar L., (2024), An analysis of sustainable waste efficiency at european level, <i>18th European Workshop on Efficiency and Productivity Analysis - EWEPA 2024</i>, 18-21 June 2024, Faro.
 
 _________________
 
 ## 2023
 _________________
 
-Daraio C., **Di Leo S.**, L. Simar, (2023), Investigating the Impact of Regulatory Target and External Factors on the Waste Efficiency of Italian Municipalities, <i>Associazione italiana di Ingegneria Gestionale</i>, 12-13 October 2023, Lecco.
+Daraio C., **Di Leo S.**, Simar L., (2023), Investigating the Impact of Regulatory Target and External Factors on the Waste Efficiency of Italian Municipalities, <i>Associazione italiana di Ingegneria Gestionale</i>, 12-13 October 2023, Lecco.
 
 _________________
 
@@ -38,11 +41,11 @@ Daraio C., Iazzolino G., Laise D., **Di Leo S.**, DEA, Balanced Scorecard and In
 
 _________________
 
-Avenali A., Daraio C., **Di Leo S.**, J. Wolszczak-Derlacz (2022), What lies behind the rankings of the world’s top universities? Implications for universities’ missions and funding strategies, <i>Associazione italiana di Ingegneria Gestionale</i>, 20-21 October 2022, Roma.
+Avenali A., Daraio C., **Di Leo S.**, Wolszczak-Derlacz J., (2022), What lies behind the rankings of the world’s top universities? Implications for universities’ missions and funding strategies, <i>Associazione italiana di Ingegneria Gestionale</i>, 20-21 October 2022, Roma.
 
 _________________
 
-Avenali A., Daraio C., **Di Leo S.**, Wolszczak-Derlacz J. (2022), What lies behind the rankings of the world’s top universities? A financial and accounting perspective, <i>XXX Meeting economics of education Association - AEDE 2022</i>, 30 June-1 July 2022. Porto
+Avenali A., Daraio C., **Di Leo S.**, Wolszczak-Derlacz J., (2022), What lies behind the rankings of the world’s top universities? A financial and accounting perspective, <i>XXX Meeting economics of education Association - AEDE 2022</i>, 30 June-1 July 2022. Porto
 
 _________________
 
