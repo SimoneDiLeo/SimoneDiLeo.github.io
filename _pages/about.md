@@ -37,7 +37,7 @@ _________________
 
 <img src="https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg" width="200">
 
-<img src="https://uclouvain.be/sites/all/themes/ucltheme/logo.png?newdesign2018" width="200">
+<img src="https://oer.uclouvain.be/jspui/image/oerucl/ucl_logo.png" width="200">
 
 
 ## Former Collaboration
