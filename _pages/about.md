@@ -17,7 +17,7 @@ I don't think there's a position for the jobs I've done in the past... let's jus
 _________________
 
 <img src="https://logos-download.com/wp-content/uploads/2019/07/Sapienza_Roma_Logo.png" width="200">    <img src="https://business.esa.int/sites/business/files/DIAG_logo.png" width="200">   <img src="https://www.isc.cnr.it/wp-content/uploads/2022/12/LOGO_Roma_technopole-495x400.jpg"  width="200">    
-<img src="https://serics.eu/wp-content/uploads/2025/01/Serics-Logo-rgb-white.svg"  width="400">  
+<img src="https://serics.eu/wp-content/uploads/2022/12/Logo_Serics_Prova3.png" width="400">  
 
 ## Society Membership
 _________________
