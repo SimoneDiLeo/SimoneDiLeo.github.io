@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 
+# Master Degree Thesis
+_________________
+
+THESIS AVAILABLE:
+
+Social adv and consumer perception on energy retail market.
+
+University funding as a competitive game
+
+_________________
+
+
 # FAQ Thesis
 _________________
 
@@ -37,19 +49,6 @@ Read this <a href="https://www.corsidilaurea.uniroma1.it/sites/default/files/lin
 <i>In what language should I write the thesis?</i>
 
 The thesis must be in English.
-
-_________________
-
-# Master Degree Thesis
-_________________
-
-THESIS AVAILABLE:
-
-Business analysis of medical devices: an overview in the context of phygital
-
-Combining DEA and machine learning: a new proposal
-
-Network data and DEA analysis: a new approach to network and peer search problems
 
 _________________
 
