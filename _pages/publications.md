@@ -124,7 +124,7 @@ _________________
 
 _________________
 
-Daraio C., **Di Leo S.**, L. Simar (2025). Flexible Techniques to Detect Typical Hidden Errors in Large Longitudinal Datasets. <i>European Journal of Operational Research</i>
+Daraio C., **Di Leo S.**, L. Simar (2025). Conical Free Disposal Hull estimators of directional distances and Luenberger productivity indices for general technologies. <i>European Journal of Operational Research</i>
 
 Full text available at <a href="https://doi.org/10.1016/j.ejor.2024.12.025"> EJOR </a> 
 
