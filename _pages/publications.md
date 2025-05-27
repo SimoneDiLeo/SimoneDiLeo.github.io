@@ -124,6 +124,14 @@ _________________
 
 _________________
 
+Daraio C., **Di Leo S.**, F. Ferazzoli (2025). Pitfalls, benefits, and comparative analysis of artificial intelligence ChatBots in the systematic review process. <i>International Transactions in Operational Research</i>
+
+Full text available at <a href="https://doi.org/10.1111/itor.70054"> ITOR </a> 
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/itor.70054"></div>
+
+_________________
+
 Daraio C., **Di Leo S.**, L. Simar (2025). Conical Free Disposal Hull estimators of directional distances and Luenberger productivity indices for general technologies. <i>European Journal of Operational Research</i>
 
 Full text available at <a href="https://doi.org/10.1016/j.ejor.2024.12.025"> EJOR </a> 
