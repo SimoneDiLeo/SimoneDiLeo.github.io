@@ -16,6 +16,13 @@ Chair of the session "MI-6 REGULATION I" for the XVII EWEPA | Porto, June 27-29 
 # Conference Presentation
 _________________
 
+## 2025
+_________________
+
+Daraio C., **Di Leo S.**, Nonino F., (2025), Benchmarking Open-Source E-health and Telemedicine Platforms: A Robust Efficiency Approach for Performance and Cybersecurity Assessment, <i>North American Productivity Workshop 2025 (NAPW 2025)</i>, 9-12 June 2025, Arlington, Virgina, USA.
+
+Daraio C., **Di Leo S.**, (2025), Enhancing Healthcare Efficiency: A Robust Assessment of Digital Technologies and Their Impact, <i>North American Productivity Workshop 2025 (NAPW 2025)</i>, 9-12 June 2025, Arlington, Virgina, USA. *Presented by Prof. Daraio*
+
 ## 2024
 _________________
 
