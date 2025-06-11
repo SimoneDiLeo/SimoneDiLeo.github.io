@@ -11,6 +11,19 @@ You can also find all the articles on <u><a href="https://scholar.google.com/cit
 
 _________________
 
+## Healthcare studies
+
+_________________
+
+------------------------------------------------------------------
+Daraio, C., **Di Leo, S.** & Orsini, J. (2025). An Integrated and Flexible Review Framework to Evaluate the Evolution and Barriers of Digital-Twin Technologies in Industrial and Healthcare Domains. <i> Global Journal of Flexible Management</i>. 
+
+Available at <a href="https://doi.org/10.1007/s40171-025-00447-x"> GJFM </a> 
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s40171-025-00447-x"></div>
+
+------------------------------------------------------------------
+_________________
+
 ## Waste Management studies
 
 _________________
