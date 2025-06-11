@@ -16,9 +16,13 @@ _________________
 _________________
 
 ------------------------------------------------------------------
-Daraio, C., **Di Leo, S.** & Orsini, J. (2025). An Integrated and Flexible Review Framework to Evaluate the Evolution and Barriers of Digital-Twin Technologies in Industrial and Healthcare Domains. <i> Global Journal of Flexible Management</i>. 
+Daraio, C., **Di Leo, S.** & Orsini, J. (2025). An Integrated and Flexible Review Framework to Evaluate the Evolution and Barriers of Digital-Twin Technologies in Industrial and Healthcare Domains. <i> Global Journal of Flexible System Management</i>. 
+<details>
+  <summary><b>Abstract</b></summary>
+  <p style="text-align: justify">Digital-twin (DT) technologies are revolutionizing both industrial and healthcare domains, albeit at different stages of maturity and application complexity. This paper presents a novel Integrated Flexible Systematic Review (IFSR) framework to analyse the DTs adoption across these two sectors. Through two domain-specific systematic literature reviews comprising 133 rigorously selected articles, we identify key trends, enablers, and sector-specific barriers. Our findings reveal that while industrial DTs are widely applied in predictive maintenance, supply chain resilience, and smart manufacturing, healthcare DTs are still emerging, showing promise in personalized medicine, surgical simulation, and patient-specific diagnostics. A critical result is the identification of cross-domain spillover effects, where industrial innovations like real-time analytics, Augmented Reality/Virtual Reality (AR/VR), and federated learning are beginning to influence healthcare practices. Conversely, healthcare’s high demands for precision and ethics are enhancing DTs development in industry. The analysis uncovers interoperability gaps, regulatory constraints, and computational challenges as primary adoption barriers, particularly in healthcare. This study contributes both methodologically, by proposing a dynamic, cross-sectoral review model, and substantively, by highlighting how DTs flexibility, when aligned with flexible system management principles, can foster adaptive, secure, and interoperable solutions. Future research directions are proposed to enhance DTs autonomy, privacy, and integration in both fields.</p>
+</details>
 
-Available at <a href="https://doi.org/10.1007/s40171-025-00447-x"> GJFM </a> 
+Available at <a href="https://doi.org/10.1007/s40171-025-00447-x"> GJFSM </a> 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s40171-025-00447-x"></div>
 
 ------------------------------------------------------------------
@@ -29,7 +33,7 @@ _________________
 _________________
 
 
-D’Adamo, I., Daraio, C., **Di Leo, S.** et al. (2024). A Flexible and Sustainable Analysis of Waste Efficiency at the European Level. <i> Glob J Flex Syst Manag. </i>  
+D’Adamo, I., Daraio, C., **Di Leo, S.** et al. (2024). A Flexible and Sustainable Analysis of Waste Efficiency at the European Level. <i> Global Journal of Flexible System Management</i>.  
 Available at <a href="https://doi.org/10.1007/s40171-024-00416-w"> GJFSM </a> 
 <details>
   <summary><b>Abstract</b></summary>
