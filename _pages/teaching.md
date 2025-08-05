@@ -10,8 +10,25 @@ author_profile: true
 # University Courses
 _________________
 
+
+## 2025-2026
+_________________
+
+I Semester
+
+STRUMENTI PER L'ANALISI DEI DATI NELLE ORGANIZZAZIONI - 2025/26 (In Italiano)
+
+Classroom website:
+<a href="https://classroom.google.com/c/Nzg5MjEyMjM5MjA3"> LINK </a>
+
+Course Code:
+kgekpfoy
+
+_________________
+
 ## 2024-2025
 _________________
+I Semester 
 
 MANAGEMENT TOOLS FOR BUSINESS DATA ANALYST - 2024/25
 
@@ -23,6 +40,7 @@ Course Code:
 
 _________________
 
+II Semester
 
 ECONOMICS OF TECHNOLOGY AND MANAGEMENT - 2024/25 (3 CFU)
 
