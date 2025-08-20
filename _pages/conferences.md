@@ -40,7 +40,7 @@ Oropallo E., Daraio C., **Di Leo S.**, Nonino F., (2025), Revolutionizing Medica
 Available at <a href="https://doi.org/10.51408/issi2025_197"> ISSI Conference Posters Oropallo </a> 
 
 Daraio C., **Di Leo S.**, (2025), How far are we from understanding phygital healthcare convergence? Building an AI knowledge map grounded in bibliometric metadata, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia. <i>Presented by Prof. Daraio</i>
-
+Available at <a href="https://doi.org/10.51408/issi2025_185"> ISSI Conference Posters Oropallo </a> 
 
 ## 2024
 _________________
