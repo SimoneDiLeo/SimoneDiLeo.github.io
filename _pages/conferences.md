@@ -26,7 +26,9 @@ Daraio C., **Di Leo S.**, (2025), Enhancing Healthcare Efficiency: A Robust Asse
 <a href="https://mcusercontent.com/6733524297cc942ab55d29c6d/files/e7e887f1-1efa-748c-0cd4-554b2716c35a/PROGRAM_6_4_2025_final_v34.pdf"> (NAPW 2025 Program here) </a> 
 
 Daraio C., **Di Leo S.**, (2025), Digital Twins in Healthcare: State of the Art, Bibliometric Analysis and Future Perspectives, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia.
+
 Available at <a href="https://doi.org/10.51408/issi2025_015"> Short Paper ISSI Daraio Di Leo </a> 
+
 
 <a href="https://issi2025.iiap.sci.am/wp-content/uploads/2025/07/Program_last.pdf"> (ISSI 2025 Program here) </a> 
 
@@ -34,12 +36,15 @@ Available at <a href="https://doi.org/10.51408/issi2025_015"> Short Paper ISSI D
 _________________
 
 **Di Leo S.**, Daraio C., Nonino F., Oropallo E., (2025), Healthcare Cybersecurity: Insights from a Scientometric Approach, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia. 
+
 Available at <a href="https://doi.org/10.51408/issi2025_174"> ISSI Conference Posters Di Leo </a> 
 
 Oropallo E., Daraio C., **Di Leo S.**, Nonino F., (2025), Revolutionizing Medical Processes Through Phygital Technology: A Multiple Case Study Approach, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia.<i>Presented by Dott. Oropallo</i>
+
 Available at <a href="https://doi.org/10.51408/issi2025_197"> ISSI Conference Posters Oropallo </a> 
 
 Daraio C., **Di Leo S.**, (2025), How far are we from understanding phygital healthcare convergence? Building an AI knowledge map grounded in bibliometric metadata, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia. <i>Presented by Prof. Daraio</i>
+
 Available at <a href="https://doi.org/10.51408/issi2025_185"> ISSI Conference Posters Oropallo </a> 
 
 ## 2024
@@ -52,6 +57,7 @@ Daraio C., **Di Leo S.**, Ferazzoli F., (2024), Evaluating ChatGPT (and other AI
 D'Adamo I., Daraio C., **Di Leo S.**, Simar L., (2024), An analysis of sustainable waste efficiency at european level, <i>18th European Workshop on Efficiency and Productivity Analysis - EWEPA 2024</i>, 18-21 June 2024, Faro.
 
 Available at <a href="https://ewepa.org/images/abstracts/ewepa2024_book-of-abstracts_v3_27062024.pdf"> EWEPA 2024 book of abstracts </a> 
+
 <a href="https://ewepa.org/images/program/ewepa2024_program_v4_27062024.pdf"> (EWEPA 2024 Program here) </a> 
 
 _________________
