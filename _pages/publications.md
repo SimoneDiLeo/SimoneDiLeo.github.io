@@ -72,6 +72,12 @@ _________________
 ## Electricity market studies
 
 _________________
+Antonini, G., D'Adamo, I., **Di Leo, S.**, Gastaldi, M., & Scarcelli, M. (2025). Advancing Sustainable Development Through Integrated Photovoltaic and Battery Energy Storage Systems in Commercial Buildings: A Strategic, Economic, and Environmental Perspective.<i> Sustainable Development</i>.
+
+Full text (open access) available at <a href="https://doi.org/10.1002/sd.70148"> SD </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/sd.70148"></div>
+
+_________________
 
 
 **Di Leo, S.**, Chicca, M., Daraio, C., Guerrini, A., & Scarcella, S. (2024).  A robust benchmarking of direct margin in Italy's energy retail markets. <i> Utilities Policy</i>,  86, 101701. 
