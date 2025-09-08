@@ -34,7 +34,7 @@ _________________
 ## Other Collaboration
 _________________
 
-<img src="https://esss.info/wp-content/uploads/2020/12/esss-logo.png" width="200">
+
 
 _________________
 
