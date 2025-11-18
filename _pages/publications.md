@@ -26,6 +26,23 @@ Available at <a href="https://doi.org/10.1007/s40171-025-00447-x"> GJFSM </a>
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s40171-025-00447-x"></div>
 
 ------------------------------------------------------------------
+
+_________________
+
+## Circular Economy studies
+
+_________________
+
+D’Adamo, I., **Di Leo, S.**, Gastaldi, M., Paris A.  (2025). Evaluating sustainability in Europe with composite indicators. <i> Discover Sustainability</i>.  
+Available at <a href="https://doi.org/10.1007/s43621-025-02129-1"> DS </a> 
+<details>
+  <summary><b>Abstract</b></summary>
+  <p style="text-align: justify">Sustainability is a fundamental global challenge that requires an integrated approach capable of balancing economic, environmental, and social dimensions. In recent years, a wide range of indicators has been proposed in the literature to evaluate progress toward the Sustainable Development Goals (SDGs). To effectively monitor and manage this progress, the application of robust and reliable analytical models is essential. This study employs two established methods—min–max normalization and the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)—to assess the performance of European countries based on 76 SDG indicators provided by Eurostat for the year 2022. The analysis shows strong consistency between the two methodologies when all indicators are assigned equal weight. Sweden ranks first in both assessments, followed by Denmark and the Netherlands, with Ireland and Belgium also achieving high scores. In contrast, Greece, Cyprus, and Bulgaria consistently rank at the bottom according to both methods. The study also disaggregates the results by dimension, highlighting Germany’s leading performance in the environmental category, Sweden’s dominance in the social dimension, and its strong performance across all three. Denmark also excels in the social dimension, while the Netherlands stands out in the economic category. Three key recommendations emerge from the analysis: (i) strengthen European cohesion policies to reduce disparities in sustainability performance across countries; (ii) promote integrated strategies that enhance the interconnections among the various indicators; and (iii) invest in improving both the availability and quality of sustainability-related data throughout Europe.</p>
+</details>
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s43621-025-02129-1"></div>
+
+
 _________________
 
 ## Waste Management studies
@@ -70,6 +87,12 @@ Available at <a href="https://doi.org/10.1177/0734242X241262698"> WM&R </a>
 _________________
 
 ## Electricity market studies
+
+_________________
+D'Adamo, I., **Di Leo, S.**, Gastaldi, M., Ozturk I. & Terzi di Bergamo U. (2025). Exploring the economic feasibility of offshore wind energy for sustainable development.<i> Energy Reports</i>.
+
+Full text (open access) available at <a href="https://doi.org/10.1016/j.egyr.2025.10.003"> Energy Reports </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.egyr.2025.10.003"></div>
 
 _________________
 Antonini, G., D'Adamo, I., **Di Leo, S.**, Gastaldi, M., & Scarcelli, M. (2025). Advancing Sustainable Development Through Integrated Photovoltaic and Battery Energy Storage Systems in Commercial Buildings: A Strategic, Economic, and Environmental Perspective.<i> Sustainable Development</i>.
