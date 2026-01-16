@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "thesis Requests"
-permalink: /thesis Requests/
+permalink: /thesis-requests/
 author_profile: true
 ---
 
