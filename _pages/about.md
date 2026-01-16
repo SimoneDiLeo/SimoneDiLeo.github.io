@@ -21,7 +21,6 @@ _________________
 <img src="https://www.rometechnopole.it/wp-content/uploads/2025/03/Screenshot-2025-03-28-alle-14.30.18.png"  width="200">    
 <img src="https://serics.eu/wp-content/uploads/2022/12/Logo_Serics_Prova3.png" width="200">  
 <img src="/images/Sapienza phygital lab.png" width="200">  
-<img src="https://esss.info/wp-content/uploads/2020/12/esss-logo.png" width="200"> 
 
 ## Society Membership
 _________________
@@ -34,14 +33,14 @@ _________________
 ## Other Collaboration
 _________________
 
-
+<img src="https://esss.info/wp-content/uploads/2020/12/esss-logo.png" width="200"> 
 
 _________________
 
 ## Former Affiliation
 _________________
 
-<img src="https://th.bing.com/th/id/R.690696eb5e226c5d992f0933980b8840?rik=vRUVF3QuJ9xSEg&pid=ImgRaw&r=0" width="200">   
+<img src="/images/RISIS.png" width="200">   
 
 <img src="https://www.eter-project.com/wp-content/uploads/2022/03/ETER-Logo-3.svg" width="200">
 
@@ -51,7 +50,7 @@ _________________
 ## Former Collaboration
 _________________
 
-<img src="https://www.arera.it/typo3conf/ext/areratheme/Resources/Public/Images/Template/arera-logo.svg" width="200">
+<img src="/images/ARERA.svg" width="200">
 
 
 ## Former Society Membership

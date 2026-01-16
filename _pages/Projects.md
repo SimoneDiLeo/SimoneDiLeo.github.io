@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Projects"
+permalink: /Projects/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Projects
 ---
 
-
-[Download my CV here](https://simonedileo.github.io//files/CV.pdf)
+Under Construction
 
 <!--
 {% include base_path %}

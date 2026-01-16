@@ -87,7 +87,25 @@ Available at <a href="https://doi.org/10.1177/0734242X241262698"> WM&R </a>
 _________________
 
 ## Electricity market studies
+_________________
+D'Adamo, I., **Di Leo, S.**, Fabbi, F., Gastaldi, M., Uricchio, A. F., Energy policy and citizens’ perceptions: The role of PV+BES systems in driving a sustainable energy transition.<i> Energy Policy</i>.
 
+<details>
+  <summary><b>Abstract</b></summary>
+  <p style="text-align: justify">Photovoltaic (PV) systems integrated with battery energy storage (BES) are central to the energy transition, linking technological innovation with social and behavioural dimensions. This study explores how citizens’ choices can contribute to sustainable development in Italy, based on data from an online survey. The results reveal that investment in PV systems is seen as a top priority for a sustainable future, receiving an average score of 8.75/10, while PV + BES integration is rated slightly lower, at 7.90/10. A majority of respondents (55 %) report being unable to modify their energy consumption habits, underscoring the perceived necessity of BES for enhancing self-consumption at both individual and collective levels.
+Citizens place greater importance on self-consumption than on government incentives and benefits associated with proximity to green energy facilities (e.g., environmental, economic, safety-related). While renewable energy investments strengthen consumer confidence, sustainability has not yet become a decisive factor in purchasing behaviour.
+The demographic analysis indicates more sustainable behaviour among women and individuals over 30, whereas no significant differences are observed among those living near industrial areas. A cluster analysis further identifies the profiles of citizens most receptive to PV + BES adoption in industrial contexts.
+Overall, the study demonstrates that citizens’ behaviours and preferences are pivotal in the uptake of renewable energy technologies. Understanding these social dynamics, in conjunction with technological advancements, is vital to progressing the sustainable energy transition and supporting Sustainable Development Goals 7 and 9. The present findings suggest that policies fostering self-consumption and investment in PV + BES systems may effectively integrate environmental, economic, and social benefits while promoting citizen engagement in energy sustainability.</p>
+</details>
+
+
+Full text (open access) available at <a href="https://doi.org/10.1016/j.enpol.2025.115065"> Energy Policy </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.enpol.2025.115065"></div>
+_________________
+D'Adamo, I., **Di Leo, S.**, Gastaldi, M., Maccalini, A. M., (2025). Green restaurants: An economic assessment of solar photovoltaics and energy storage systems.<i> Energy Nexus</i>.
+
+Full text (open access) available at <a href="https://doi.org/10.1016/j.nexus.2025.100612"> Energy Nexus </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.nexus.2025.100612"></div>
 _________________
 D'Adamo, I., **Di Leo, S.**, Gastaldi, M., Ozturk I. & Terzi di Bergamo U. (2025). Exploring the economic feasibility of offshore wind energy for sustainable development.<i> Energy Reports</i>.
 
