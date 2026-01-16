@@ -4,21 +4,20 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "Conferences"
-    url: /conferences/    
+    url: /conferences/
   - title: "FAQ"
-    url: /faq/   
-    
-  - title: "thesis Requests"
-    url: /thesis Requests/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /faq/
+
+  - title: "Thesis Requests"
+    url: /Thesis Requests/
+
+  #  - title: "Blog Posts"
+  #    url: /year-archive/
+
+  - title: "Projects"
+    url: /Projects/
 #  - title: "Guide"
 #    url: /markdown/
