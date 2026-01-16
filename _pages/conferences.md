@@ -8,13 +8,48 @@ author_profile: true
 # Conference organization
 _________________
 
+## 2025
+_________________
+
+Program Committee 27th International Workshop on Configuration (ConfWS 2025) co-located with ECAI 2025 / October 25 – 26, 2025 / Bologna, Italy 
+
+_________________
+
+
 ## 2022
 _________________
 
 Chair of the session "MI-6 REGULATION I" for the XVII EWEPA | Porto, June 27-29 2022
 
+
+## Conference Poster 
+_________________
+
+## 2025
+_________________
+
+**Di Leo S.**, Daraio C., Nonino F., Oropallo E., (2025), Healthcare Cybersecurity: Insights from a Scientometric Approach, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia. 
+
+Available at <a href="https://doi.org/10.51408/issi2025_174"> ISSI Conference Posters Di Leo </a> 
+
+Oropallo E., Daraio C., **Di Leo S.**, Nonino F., (2025), Revolutionizing Medical Processes Through Phygital Technology: A Multiple Case Study Approach, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia.<i>Presented by Dott. Oropallo</i>
+
+Available at <a href="https://doi.org/10.51408/issi2025_197"> ISSI Conference Posters Oropallo </a> 
+
+Daraio C., **Di Leo S.**, (2025), How far are we from understanding phygital healthcare convergence? Building an AI knowledge map grounded in bibliometric metadata, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia. <i>Presented by Prof. Daraio</i>
+
+Available at <a href="https://doi.org/10.51408/issi2025_185"> ISSI Conference Posters Oropallo </a> 
+
+
 # Conference Presentation
 _________________
+
+## 2026
+_________________
+
+Daraio C., **Di Leo S.**, Nonino F., Oropallo E., (2025), An innovative non-parametric performance evaluation approach of Open-Source Software e-health projects, <i>XXXVI AiIG SCIENTIFIC MEETING (RSA AIIG 2025)</i>, 5-6 FEBRUARY 2026, Udine, Italy. 
+
+Oropallo E., Daraio C., **Di Leo S.**, Nonino F.  (2025),  Phygital technology adoption in Healthcare: An AMO–DS Case Study, <i>XXXVI AiIG SCIENTIFIC MEETING (RSA AIIG 2025)</i>, 5-6 FEBRUARY 2026, Udine, Italy. <i>Presented by Dott. Oropallo</i>
 
 ## 2025
 _________________
@@ -32,20 +67,6 @@ Available at <a href="https://doi.org/10.51408/issi2025_015"> Short Paper ISSI D
 
 <a href="https://issi2025.iiap.sci.am/wp-content/uploads/2025/07/Program_last.pdf"> (ISSI 2025 Program here) </a> 
 
-## 2025 Conference Poster 
-_________________
-
-**Di Leo S.**, Daraio C., Nonino F., Oropallo E., (2025), Healthcare Cybersecurity: Insights from a Scientometric Approach, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia. 
-
-Available at <a href="https://doi.org/10.51408/issi2025_174"> ISSI Conference Posters Di Leo </a> 
-
-Oropallo E., Daraio C., **Di Leo S.**, Nonino F., (2025), Revolutionizing Medical Processes Through Phygital Technology: A Multiple Case Study Approach, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia.<i>Presented by Dott. Oropallo</i>
-
-Available at <a href="https://doi.org/10.51408/issi2025_197"> ISSI Conference Posters Oropallo </a> 
-
-Daraio C., **Di Leo S.**, (2025), How far are we from understanding phygital healthcare convergence? Building an AI knowledge map grounded in bibliometric metadata, <i>20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS 2025 (20st ISSI conference)</i>, 23-27 June 2025, Yerevan, Armenia. <i>Presented by Prof. Daraio</i>
-
-Available at <a href="https://doi.org/10.51408/issi2025_185"> ISSI Conference Posters Oropallo </a> 
 
 ## 2024
 _________________
@@ -68,6 +89,7 @@ _________________
 Daraio C., **Di Leo S.**, Simar L., (2023), Investigating the Impact of Regulatory Target and External Factors on the Waste Efficiency of Italian Municipalities, <i>Associazione italiana di Ingegneria Gestionale</i>, 12-13 October 2023, Lecco.
 
 <a href="https://www.ingegneriagestionale.it/rsa/2023/wp-content/uploads/2023/10/sessions-A-E.pdf"> (AIIG 2023 Program here) </a> 
+
 _________________
 
 
@@ -81,11 +103,13 @@ _________________
 Avenali A., Daraio C., **Di Leo S.**, Wolszczak-Derlacz J., (2022), What lies behind the rankings of the world’s top universities? Implications for universities’ missions and funding strategies, <i>Associazione italiana di Ingegneria Gestionale</i>, 20-21 October 2022, Roma.
 
 <a href="http://www.convegnoaiig.it/2022/wp-content/files/2022/10/Program-Parallel-Sessions-2022-10-20.pdf"> (AIIG 2022 Program here) </a> 
+
 _________________
 
 Avenali A., Daraio C., **Di Leo S.**, Wolszczak-Derlacz J., (2022), What lies behind the rankings of the world’s top universities? A financial and accounting perspective, <i>XXX Meeting economics of education Association - AEDE 2022</i>, 30 June-1 July 2022. Porto
 
-<a href="https://gestor.economicsofeducation.com/program"> (AEDE 2022 Program here) </a> 
+<a href="https://gestor.economicsofeducation.com/program"> (AEDE 2022 Program here) </a>
+ 
 _________________
 
 Daraio C., **Di Leo S.**, Simar L. (2022), Assessing and explaining recycle efficiency of the Italian Urban waste management with approximations of nonparametric frontiers, <i>17th European Workshop on Efficiency and Productivity Analysis - EWEPA 2022</i>, 27-29 June 2022, Porto
