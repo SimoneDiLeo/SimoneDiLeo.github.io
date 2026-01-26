@@ -13,8 +13,8 @@ ScientoAI applies AI Bibliometric Grounded Analysis to bridge the gap between tr
 
 The software leverages Large Language Models (LLMs) to understand the context of research papers, making it an essential tool for constructing Narrative CVs by extracting and visualizing the underlying narrative of a researcher's work.
 
-Link to the App:
-https://huggingface.co/spaces/SimoneDiLeo/sciento-ai
+Available at <a href="https://huggingface.co/spaces/SimoneDiLeo/sciento-ai"> Sciento AI App on Hugging Face </a> 
+
 
 <!--
 {% include base_path %}
