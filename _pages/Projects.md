@@ -7,7 +7,14 @@ redirect_from:
   - /Projects
 ---
 
-Under Construction
+**Sciento AI**
+
+ScientoAI applies AI Bibliometric Grounded Analysis to bridge the gap between traditional bibliometrics and modern AI capabilities. It does not replace classical bibliometric methods but complements them by adding a semantic layer to the analysis.
+
+The software leverages Large Language Models (LLMs) to understand the context of research papers, making it an essential tool for constructing Narrative CVs by extracting and visualizing the underlying narrative of a researcher's work.
+
+Link to the App:
+https://huggingface.co/spaces/SimoneDiLeo/sciento-ai
 
 <!--
 {% include base_path %}
