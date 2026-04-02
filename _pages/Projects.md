@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 **Current Research Project:**
+
 PI of the project **Enhancing Graphical Abstracts for Research Communication: A Human-in-the-Loop Artificial Intelligence (AI) Approach** (AIGA)
 
 *Summary*
@@ -17,12 +18,15 @@ The increasing complexity of scientific communication calls for innovative appro
 
 Participant in the project entitled **Designing the Sapientia Observatory on University Sustainability** (PI prof. Daraio)
 
+
 **Current Third mission Project:**
+
+
+
 Participant in the project entitled **Sostenibile o insostenibile, questo è il problema! È più nobile vivere il presente o temere il futuro?** (SINE METU, PI prof. Placidi)
 
 
 Other projects:
-
 
 **Sciento AI**
 
