@@ -14,7 +14,7 @@ _________________
 
 THESIS AVAILABLE:
 
-Open Themese on LLM (AI) applications: please contact me if you have some ideas that we can develop in a master degree thesis.
+Open thesis on LLM (AI) applications: please contact me if you have some ideas that we can develop in a master degree thesis.
 
 Agentic AI for public document extraction: from unstructured to structured public data.
 
