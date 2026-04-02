@@ -5,15 +5,24 @@ permalink: /thesis-requests/
 author_profile: true
 ---
 
+Main Topic: AI, Energy market, Universities.
+
+If you have an interest, we can discuss together a possible thesis on your topic.
 
 # Master Degree Thesis
 _________________
 
 THESIS AVAILABLE:
 
-Social adv and consumer perception on energy retail market.
+Open Themese on LLM (AI) applications: please contact me if you have some ideas that we can develop in a master degree thesis.
 
-University funding as a competitive game
+Agentic AI for public document extraction: from unstructured to structured public data.
+
+Agentic AI in the University Ranking system.
+
+Interactive system and Agentic AI in the SVG creation.
+
+University funding as a competitive game.
 
 _________________
 
