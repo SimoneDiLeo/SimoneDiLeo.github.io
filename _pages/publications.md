@@ -33,6 +33,13 @@ _________________
 
 _________________
 
+Becchi, B., D’Adamo, I., **Di Leo, S.**, Gastaldi, M., Grosso, C., & Trusiani, C. (2026). Integrating knowledge management and digital product passports to foster sustainable and collaborative ecosystems. Journal of Knowledge Management, 1-28.
+Available at <a href="https://doi.org/10.1108/JKM-10-2025-1512"> KJM </a> 
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1108/JKM-10-2025-1512"></div>
+
+
+
 D’Adamo, I., **Di Leo, S.**, Gastaldi, M., Paris A.  (2025). Evaluating sustainability in Europe with composite indicators. <i> Discover Sustainability</i>.  
 Available at <a href="https://doi.org/10.1007/s43621-025-02129-1"> DS </a> 
 <details>
