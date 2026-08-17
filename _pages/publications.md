@@ -17,10 +17,6 @@ _________________
 
 ------------------------------------------------------------------
 Daraio, C., **Di Leo, S.** & Orsini, J. (2025). An Integrated and Flexible Review Framework to Evaluate the Evolution and Barriers of Digital-Twin Technologies in Industrial and Healthcare Domains. <i> Global Journal of Flexible System Management</i>. 
-<details>
-  <summary><b>Abstract</b></summary>
-  <p style="text-align: justify">Digital-twin (DT) technologies are revolutionizing both industrial and healthcare domains, albeit at different stages of maturity and application complexity. This paper presents a novel Integrated Flexible Systematic Review (IFSR) framework to analyse the DTs adoption across these two sectors. Through two domain-specific systematic literature reviews comprising 133 rigorously selected articles, we identify key trends, enablers, and sector-specific barriers. Our findings reveal that while industrial DTs are widely applied in predictive maintenance, supply chain resilience, and smart manufacturing, healthcare DTs are still emerging, showing promise in personalized medicine, surgical simulation, and patient-specific diagnostics. A critical result is the identification of cross-domain spillover effects, where industrial innovations like real-time analytics, Augmented Reality/Virtual Reality (AR/VR), and federated learning are beginning to influence healthcare practices. Conversely, healthcare’s high demands for precision and ethics are enhancing DTs development in industry. The analysis uncovers interoperability gaps, regulatory constraints, and computational challenges as primary adoption barriers, particularly in healthcare. This study contributes both methodologically, by proposing a dynamic, cross-sectoral review model, and substantively, by highlighting how DTs flexibility, when aligned with flexible system management principles, can foster adaptive, secure, and interoperable solutions. Future research directions are proposed to enhance DTs autonomy, privacy, and integration in both fields.</p>
-</details>
 
 Available at <a href="https://doi.org/10.1007/s40171-025-00447-x"> GJFSM </a> 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s40171-025-00447-x"></div>
@@ -33,20 +29,24 @@ _________________
 
 _________________
 
-Becchi, B., D’Adamo, I., **Di Leo, S.**, Gastaldi, M., Grosso, C., & Trusiani, C. (2026). Integrating knowledge management and digital product passports to foster sustainable and collaborative ecosystems. Journal of Knowledge Management, 1-28.
+D'Adamo, I., De Meester, S., **Di Leo, S.**, Gastaldi, M., & Lunadei, D. (2026). From Awareness to Action: Consumer Behaviour, Attitudes and Business Strategy in Sustainable and Circular Electronic Devices.<i> Business Strategy and the Environment</i>.
+Available at <a href="https://doi.org/10.1002/bse.70954"> KJM </a> 
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/bse.70954"></div>
+
+_________________
+
+Becchi, B., D’Adamo, I., **Di Leo, S.**, Gastaldi, M., Grosso, C., & Trusiani, C. (2026). Integrating knowledge management and digital product passports to foster sustainable and collaborative ecosystems.<i> Journal of Knowledge Management</i>, 1-28.
 Available at <a href="https://doi.org/10.1108/JKM-10-2025-1512"> KJM </a> 
 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1108/JKM-10-2025-1512"></div>
 
-
+_________________
 
 D’Adamo, I., **Di Leo, S.**, Gastaldi, M., Paris A.  (2025). Evaluating sustainability in Europe with composite indicators. <i> Discover Sustainability</i>.  
 Available at <a href="https://doi.org/10.1007/s43621-025-02129-1"> DS </a> 
-<details>
-  <summary><b>Abstract</b></summary>
-  <p style="text-align: justify">Sustainability is a fundamental global challenge that requires an integrated approach capable of balancing economic, environmental, and social dimensions. In recent years, a wide range of indicators has been proposed in the literature to evaluate progress toward the Sustainable Development Goals (SDGs). To effectively monitor and manage this progress, the application of robust and reliable analytical models is essential. This study employs two established methods—min–max normalization and the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)—to assess the performance of European countries based on 76 SDG indicators provided by Eurostat for the year 2022. The analysis shows strong consistency between the two methodologies when all indicators are assigned equal weight. Sweden ranks first in both assessments, followed by Denmark and the Netherlands, with Ireland and Belgium also achieving high scores. In contrast, Greece, Cyprus, and Bulgaria consistently rank at the bottom according to both methods. The study also disaggregates the results by dimension, highlighting Germany’s leading performance in the environmental category, Sweden’s dominance in the social dimension, and its strong performance across all three. Denmark also excels in the social dimension, while the Netherlands stands out in the economic category. Three key recommendations emerge from the analysis: (i) strengthen European cohesion policies to reduce disparities in sustainability performance across countries; (ii) promote integrated strategies that enhance the interconnections among the various indicators; and (iii) invest in improving both the availability and quality of sustainability-related data throughout Europe.</p>
-</details>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s43621-025-02129-1" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/static/ai/badge.js" charset="utf-8"></script>
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s43621-025-02129-1"></div>
 
 
@@ -59,10 +59,6 @@ _________________
 
 D’Adamo, I., Daraio, C., **Di Leo, S.** et al. (2024). A Flexible and Sustainable Analysis of Waste Efficiency at the European Level. <i> Global Journal of Flexible System Management</i>.  
 Available at <a href="https://doi.org/10.1007/s40171-024-00416-w"> GJFSM </a> 
-<details>
-  <summary><b>Abstract</b></summary>
-  <p style="text-align: justify">This paper analyses the waste management efficiency of European Union countries using a flexible nonparametric methodology known as directional data envelopment analysis (DEA). The study evaluates performance at the macro (country) level, considering waste generated as input, landfilled and incinerated waste as bad output and recycled waste as output. The analysis incorporates the heterogeneity and specificities of each country, with respect to social and economic sustainability, establishing specific and realistic targets for each country to achieve efficiency. The research introduces a flexible and innovative method for assessing waste management efficiency and provides new empirical evidence on European waste management, considering economic and social sustainability. The results reveal a significant disparity among European countries in both waste generation and waste recycling. Countries are categorised into five groups according to their level of efficiency, and Central European nations are observed to exhibit generally better performance. A pragmatic approach, based on clear collaboration among countries, could optimise the unique waste management characteristics of individual nations to enhance the overall efficiency of the European waste management system, contributing to a circular economy and sustainable development.</p>
-</details>
 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s40171-024-00416-w"></div>
 
@@ -78,8 +74,7 @@ D'Adamo I., Daraio, C., **Di Leo, S.**, Gastaldi M. & Rossi E.N. (2024). Driving
 
 Available at <a href="https://doi.org/10.1016/j.spc.2024.08.022"> SUS PROD </a>
 
-Listen the AI Generated Audio Podcast on this article! (Powered by NotebookLM)
-<iframe src="https://drive.google.com/file/d/1h34luzGzHLTJqxj_oKUJ_uksX_A7JFD3/preview" width="350" height="50" style="border: none;"></iframe>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.spc.2024.08.022" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/static/ai/badge.js" charset="utf-8"></script>
 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.spc.2024.08.022"></div>
 
@@ -95,16 +90,26 @@ _________________
 
 ## Electricity market studies
 _________________
+
+D'Adamo, I., **Di Leo, S.**, Fabbi, F., & Gastaldi, M. (2026). A policy-oriented framework for assessing the economic sustainability of industrial photovoltaic investments.<i> Sustainable Production and Consumption</i>. In Press. 
+
+Full text available at <a href="https://doi.org/10.1016/j.spc.2026.07.014"> Sus Prod </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.spc.2026.07.014"></div>
+_________________
+
+D’Adamo, I., **Di Leo, S.**, Fabbi, F., Gastaldi, M., & Kalogirou, S. (2026). Economic assessment of battery energy storage in industrial applications: Policy support and self-consumption effects.<i> Energy</i>, 141335.
+
+Full text available at <a href="https://doi.org/10.1016/j.energy.2026.141335"> Energy </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.energy.2026.141335"></div>
+_________________
+
+D'Adamo, I., **Di Leo, S.**, Gastaldi, M., & Scarcelli, M. (2026). Towards SDG 7: A Quantitative Sustainability Framework for Evaluating PV+ BES Systems in the Low-Carbon Transition.<i> IEEE Engineering Management Review</i>.
+
+Full text available at <a href="https://doi.org/10.1109/EMR.2026.3696115"> IEEE </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1109/EMR.2026.3696115"></div>
+_________________
+
 D'Adamo, I., **Di Leo, S.**, Fabbi, F., Gastaldi, M., Uricchio, A. F., Energy policy and citizens’ perceptions: The role of PV+BES systems in driving a sustainable energy transition.<i> Energy Policy</i>.
-
-<details>
-  <summary><b>Abstract</b></summary>
-  <p style="text-align: justify">Photovoltaic (PV) systems integrated with battery energy storage (BES) are central to the energy transition, linking technological innovation with social and behavioural dimensions. This study explores how citizens’ choices can contribute to sustainable development in Italy, based on data from an online survey. The results reveal that investment in PV systems is seen as a top priority for a sustainable future, receiving an average score of 8.75/10, while PV + BES integration is rated slightly lower, at 7.90/10. A majority of respondents (55 %) report being unable to modify their energy consumption habits, underscoring the perceived necessity of BES for enhancing self-consumption at both individual and collective levels.
-Citizens place greater importance on self-consumption than on government incentives and benefits associated with proximity to green energy facilities (e.g., environmental, economic, safety-related). While renewable energy investments strengthen consumer confidence, sustainability has not yet become a decisive factor in purchasing behaviour.
-The demographic analysis indicates more sustainable behaviour among women and individuals over 30, whereas no significant differences are observed among those living near industrial areas. A cluster analysis further identifies the profiles of citizens most receptive to PV + BES adoption in industrial contexts.
-Overall, the study demonstrates that citizens’ behaviours and preferences are pivotal in the uptake of renewable energy technologies. Understanding these social dynamics, in conjunction with technological advancements, is vital to progressing the sustainable energy transition and supporting Sustainable Development Goals 7 and 9. The present findings suggest that policies fostering self-consumption and investment in PV + BES systems may effectively integrate environmental, economic, and social benefits while promoting citizen engagement in energy sustainability.</p>
-</details>
-
 
 Full text (open access) available at <a href="https://doi.org/10.1016/j.enpol.2025.115065"> Energy Policy </a>
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.enpol.2025.115065"></div>
@@ -144,6 +149,13 @@ _________________
 ## Higher education studies (Universities)
 _________________
 
+Avenali, A., Daraio, C., **Di Leo, S.**, & Wolszczak-Derlacz J., The role of the non-academic staff heterogeneity in the performance of European universities. <i> Journal of Productivity Analysis</i> , 65, 32 (2026). 
+
+Available at <a href="https://doi.org/10.1007/s10479-024-06219-7"> JPA </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s10479-024-06219-7"></div>
+
+
+_________________
 **Di Leo, S.**, Avenali, A., Daraio, C. et al. (2024). Climbing university rankings under resources constraints: a combined approach integrating DEA and directed Louvain community detection. <i> Annals Oper Res </i>  
 
 Available at <a href="https://doi.org/10.1007/s10479-024-06219-7"> ANOR </a>
@@ -221,6 +233,9 @@ _________________
 Avenali, A., Daraio, C., **Di Leo, S.**, Matteucci, G., & Nepomuceno, T. (2023). Systematic reviews as a metaknowledge tool: caveats and a review of available options.<i> International Transactions in Operational Research</i>.
 
 Full text (open access) available at <a href="https://doi.org/10.1111/itor.13309"> ITOR </a> 
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/itor.13309" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/static/ai/badge.js" charset="utf-8"></script>
+
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/itor.13309"></div>
 
 _________________
