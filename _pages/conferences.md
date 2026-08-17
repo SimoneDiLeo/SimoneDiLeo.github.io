@@ -8,6 +8,13 @@ author_profile: true
 # Conference organization
 _________________
 
+## 2026
+_________________
+
+Program Committee 28th International Workshop on Configuration (ConfWS 2026) co-located with ECAI 2026 / August 15 – 16, 2025 / Bremen, Germany 
+
+_________________
+
 ## 2025
 _________________
 
@@ -46,6 +53,16 @@ _________________
 
 ## 2026
 _________________
+
+**Di Leo S.**, (2026), Beyond Evaluation Suites for LLMs: Robust Partial-Frontier Cost-Effectiveness Using Token Prices and User Preferences, <i>19th European Workshop on Efficiency and Productivity Analysis - EWEPA 2026</i>, 16-19 June 2026, Munich, Germany.
+
+Daraio C., **Di Leo S.**, (2026), AI-Driven Knowledge Mapping of Phygital Healthcare to Support Innovation in Surgical Training and Technology Transfer,<i> Rome Technopole: dove il futuro prende forma</i>, Rome, Italy, 11-12 March 2026.
+
+Daraio C., **Di Leo S.**, Orsini J., (2026), Digital Twin Adoption Barriers as a foundation for Product Design and Market Entry,<i> Rome Technopole: dove il futuro prende forma</i>, Rome, Italy, 11-12 March 2026.
+
+Botticelli E., Daraio C., **Di Leo S.**, Mariani A., Oropallo E., (2026), Market-Driven Validation Framework for the creation of a deep-tech Start-Up in Phygital Surgical Simulation,<i> Rome Technopole: dove il futuro prende forma</i>, Rome, Italy, 11-12 March 2026.
+
+Oropallo E., Daraio C., **Di Leo S.**, Nonino F., (2026), Phygital Technology adoption in medical processes: a design science case study,<i> Rome Technopole: dove il futuro prende forma</i>, Rome, Italy, 11-12 March 2026.
 
 Daraio C., **Di Leo S.**, Nonino F., Oropallo E., (2025), An innovative non-parametric performance evaluation approach of Open-Source Software e-health projects, <i>XXXVI AiIG SCIENTIFIC MEETING (RSA AIIG 2025)</i>, 5-6 FEBRUARY 2026, Udine, Italy. 
 
