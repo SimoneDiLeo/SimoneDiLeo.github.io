@@ -151,8 +151,8 @@ _________________
 
 Avenali, A., Daraio, C., **Di Leo, S.**, & Wolszczak-Derlacz J., The role of the non-academic staff heterogeneity in the performance of European universities. <i> Journal of Productivity Analysis</i> , 65, 32 (2026). 
 
-Available at <a href="https://doi.org/10.1007/s10479-024-06219-7"> JPA </a>
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s10479-024-06219-7"></div>
+Available at <a href="https://doi.org/10.1007/s11123-026-00819-0"> JPA </a>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s11123-026-00819-0"></div>
 
 
 _________________
