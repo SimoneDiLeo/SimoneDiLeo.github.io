@@ -276,18 +276,6 @@ Realization of **Chapter 23** and **Chapter 24** and support for the correction 
 _________________
 
 
-## Possible new Research projects
-_________________
-In this section I enter which possible new ideas and projects I would like to develop.
-If you would ever like to collaborate on these topics/projects please write to me!
-
-- Frontier analysis of the Electricity and Natural gas retail market in Italy
-- Frontier analysis in the Waste sector
-- Frontier analysis in the Water sector
-
-_________________
-
-
 <!--{% include base_path %}
 
 {% for post in site.publications reversed %}
