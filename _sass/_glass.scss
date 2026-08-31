@@ -1,0 +1,65 @@
+/* ==========================================================================
+   GLASS (Apple-style frosted glass surfaces)
+   Additive layer only: does not change layout/box-model of existing rules,
+   just adds translucency + blur + soft shadows on top of the current theme.
+   ========================================================================== */
+
+@mixin glass-surface($opacity: 0.65, $blur: 20px) {
+  background-color: rgba(255, 255, 255, $opacity);
+  -webkit-backdrop-filter: blur($blur) saturate(180%);
+          backdrop-filter: blur($blur) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.1);
+}
+
+/* fallback for browsers without backdrop-filter support */
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .masthead,
+  .author__urls,
+  .archive__item,
+  .notice,
+  .page__content .notice {
+    background-color: rgba(255, 255, 255, 0.96) !important;
+  }
+}
+
+/* top navigation bar */
+.masthead {
+  @include glass-surface(0.7, 16px);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+/* author profile dropdown (mobile) */
+.author__urls {
+  @include glass-surface(0.85, 12px);
+}
+
+/* left sidebar author card */
+@include breakpoint($large) {
+  .sidebar {
+    padding: 1em;
+    border-radius: $border-radius * 3;
+    @include glass-surface(0.55, 18px);
+  }
+}
+
+/* publications / talks / teaching list cards */
+.archive__item {
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: $border-radius * 2;
+  transition: $global-transition;
+  @include glass-surface(0.5, 14px);
+
+  &:hover {
+    box-shadow: 0 12px 40px rgba(31, 38, 135, 0.16);
+  }
+}
+
+/* buttons get a subtle glass sheen */
+.btn {
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0));
+}

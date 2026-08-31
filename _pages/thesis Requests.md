@@ -21,6 +21,7 @@ Agentic AI in the University Ranking system.
 University funding as a competitive game.
 
 Open topic on frontier analysis application.
+
 _________________
 
 

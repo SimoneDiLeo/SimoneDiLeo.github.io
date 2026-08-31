@@ -19,7 +19,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Ruby 3+ no longer bundles webrick by default; required by `jekyll serve`.
-gem "webrick", "~> 1.8"
+gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
