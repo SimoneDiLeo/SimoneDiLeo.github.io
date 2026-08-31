@@ -20,4 +20,4 @@ I am open to paid consulting engagements in the following areas:
 
 ## Contacts
 
-For any of the above, please get in touch via my official email: [dileo@diag.uniroma1.it](mailto:dileo@diag.uniroma1.it).
+For any of the above, please get in touch via my official email: [contact.simonedileo@gmail.com](mailto:contact.simonedileo@gmail.com).
