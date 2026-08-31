@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Consulting and collaborations"
-permalink: /Consulting and collaborations/
+permalink: /consulting-and-collaborations/
 author_profile: true
 ---
 
