@@ -16,14 +16,11 @@ THESIS AVAILABLE:
 
 Open thesis on LLM (AI) applications: please contact me if you have some ideas that we can develop in a master degree thesis.
 
-Agentic AI for public document extraction: from unstructured to structured public data.
-
 Agentic AI in the University Ranking system.
-
-Interactive system and Agentic AI in the SVG creation.
 
 University funding as a competitive game.
 
+Open topic on frontier analysis application.
 _________________
 
 
