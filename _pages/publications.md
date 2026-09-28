@@ -29,6 +29,13 @@ _________________
 
 _________________
 
+D’Adamo, I.,**Di Leo, S.**, Grosso C. (2026). Leaders or Followers? Individual-Level Sustainability Orientations on Corporate Social Responsibility and Their Theoretical Drivers. <i> Corporate Social Responsibility and Environmental Management</i>.  
+Available at <a href="https://doi.org/10.1002/csr.71026"> CSR </a> 
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/csr.71026"></div>
+
+------------------------------------------------------------------
+
 D'Adamo, I., De Meester, S., **Di Leo, S.**, Gastaldi, M., & Lunadei, D. (2026). From Awareness to Action: Consumer Behaviour, Attitudes and Business Strategy in Sustainable and Circular Electronic Devices.<i> Business Strategy and the Environment</i>.
 Available at <a href="https://doi.org/10.1002/bse.70954"> KJM </a> 
 
@@ -204,6 +211,14 @@ Full text (open access) available at <a href="https://doi.org/10.1108/MD-01-2021
 _________________
 
 ## Methodological Articles
+
+_________________
+
+Daraio, C., **Di Leo, S.**, Huang, K. et al., (2026). Implementing relational goods for responsible research evaluation. <i>Scientometrics</i>. 
+
+Full text available at <a href="https://doi.org/10.1007/s11192-026-05793-w"> SCI </a> 
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s11192-026-05793-w"></div>
 
 _________________
 
