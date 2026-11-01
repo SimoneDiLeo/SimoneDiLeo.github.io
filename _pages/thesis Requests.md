@@ -16,6 +16,10 @@ THESIS AVAILABLE:
 
 Open thesis on LLM (AI) applications: please contact me if you have some ideas that we can develop in a master degree thesis.
 
+Type one models: State of the art and application in energy service analysis
+
+Comparison of LLM Agents architecture: quantitative and qualitative evaluation
+
 Agentic AI in the University Ranking system.
 
 University funding as a competitive game.
